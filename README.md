@@ -331,8 +331,8 @@ To make the highest-impact, lowest-effort item enforceable in day-to-day executi
 
 # 10.0 Governance & Accountability
 
-**Project Lead:** [Bandar]  
-**Program Lead:** [Bandar]  
+**Project Lead:** Bandar  
+**Program Lead:** Bandar  
 **Marketing Team:** Responsible for campaign execution and digital presence  
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
 
