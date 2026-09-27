@@ -333,7 +333,7 @@ To make the highest-impact, lowest-effort item enforceable in day-to-day executi
 
 **Project Lead:** [Bandar]  
 **Program Lead:** [Bandar]  
-**Marketing Team:** Responsible for campaign execution and digital presence
+**Marketing Team:** Responsible for campaign execution and digital presence  
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
 
 ---
