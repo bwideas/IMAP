@@ -318,12 +318,12 @@ To make the highest-impact, lowest-effort item enforceable in day-to-day executi
 # 9.0 Success Factors
 ✓ Customer-centric solution positioning  
 ✓ Authentic local market engagement  
-✓ Consistent B2B engagement
-✓ Intelligent use of automation
-✓ Strong sales and marketing alignment
-✓ Data-driven decision making
-✓ High-quality technical content
-✓ Strategic partner ecosystem 
+✓ Consistent B2B engagement  
+✓ Intelligent use of automation  
+✓ Strong sales and marketing alignment  
+✓ Data-driven decision making  
+✓ High-quality technical content  
+✓ Strategic partner ecosystem  
 ✓ Continuous innovation and adaptation  
 ✓ Sustainability and value focus  
 
@@ -332,7 +332,7 @@ To make the highest-impact, lowest-effort item enforceable in day-to-day executi
 # 10.0 Governance & Accountability
 
 **Project Lead:** [Bandar]  
-**Program Lead:** [Bandar]
+**Program Lead:** [Bandar]  
 **Marketing Team:** Responsible for campaign execution and digital presence
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
 
