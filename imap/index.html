@@ -187,12 +187,26 @@
     }
     catch(e){ return {texts:{}, rows:DEFAULT_ROWS.map(r=>({...r})), events:DEFAULT_EVENTS.map(r=>({...r}))}; }
   }
-  function save(){
+  let saveTimer = null;
+  let savebarTimer = null;
+  function persist(){
+    clearTimeout(saveTimer);
+    saveTimer = null;
     localStorage.setItem(STORE, JSON.stringify(state));
     const bar = document.getElementById("savebar");
+    bar.textContent = "✓ Saved";
     bar.classList.add("show");
-    clearTimeout(save._t); save._t = setTimeout(()=>bar.classList.remove("show"), 1200);
+    clearTimeout(savebarTimer);
+    savebarTimer = setTimeout(()=>bar.classList.remove("show"), 1200);
   }
+  function save(){
+    const bar = document.getElementById("savebar");
+    bar.textContent = "Saving…";
+    bar.classList.add("show");
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(persist, 250);
+  }
+  window.addEventListener("pagehide", ()=>{ if(saveTimer !== null) persist(); });
 
   // Editable texts & KPI numbers
   document.querySelectorAll("[data-key]").forEach(el=>{
