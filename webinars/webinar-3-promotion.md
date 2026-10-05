@@ -21,7 +21,7 @@ Passcode: [to be added]
 I'm also sharing this with the team for their review. If there are any updates or suggested changes, please feel free to mention them.
 
 **Webinar title:**
-Reliable Wastewater Systems: Smart Drainage and Sewage Pumps for Safe and Efficient Commercial Building Operation
+Reliable Wastewater Systems: Smart Drainage and Sewage Pump Selection for Safe and Efficient Commercial Building Operation
 
 **What you will learn:**
 This webinar is CPD-certified through Grundfos Holding A/S.
@@ -31,17 +31,17 @@ We'll explore how drainage and sewage systems play a critical role in delivering
 
 Our speakers **Marwan Rabie, [Job Title], Grundfos**, and **Ezz Mamdouh, [Job Title], Grundfos**, will share practical insights into how smart drainage design and correct sewage pump selection support stronger operational safety, better system reliability, and long-term lifecycle value, including:
 
-**• Drainage and sewage system fundamentals and system configurations**
-Understand the fundamentals of wastewater systems in commercial buildings, including collection pits, lifting stations, and discharge pipework, and how correct system design supports safe and efficient building operation.
+**• Wastewater classifications**
+Understand the different categories of wastewater in commercial buildings — drainage, grey water, and sewage — and how correct classification drives the right system design, pump selection, and compliance for each application.
 
-**• Sewage pump sizing and solids handling**
-Learn how flow, head, and solids content impact pump selection and system performance, and understand the causes and operational impact of clogging and blockages in commercial wastewater systems.
+**• Submersible pumps and the Grundfos range**
+Explore the Grundfos submersible pump portfolio for drainage and sewage applications — including impeller technologies, solids handling, and selection criteria for matching the right pump to the duty.
 
-**• Pump configurations and level control**
-Gain practical insight into duty/standby and duty/assist pump arrangements, and learn why correct level control and anti-clog impeller selection are essential for reliable operation, reduced downtime, and system protection.
+**• Grundfos controls**
+Learn how Grundfos level controls, pump controllers, and monitoring solutions deliver reliable automatic operation, protect pumps from dry running and clogging, and provide visibility over system performance.
 
-**• Monitoring, backflow prevention, and long-term system reliability**
-Understand the role of intelligent controls, monitoring, backflow prevention, and planned maintenance in protecting building hygiene, preventing overflows, and supporting long-term wastewater system reliability.
+**• Prefabricated pump stations**
+Discover how prefabricated pump stations simplify design and installation, ensure consistent quality, and provide a complete, reliable solution for collecting and transporting wastewater in commercial buildings.
 
 Register now to secure your spot. We look forward to seeing you at the webinar.
 
@@ -87,7 +87,7 @@ Bandar
 **Topic:** Wastewater
 **Recommended header (label):** CPD Webinar
 **Recommended title:** Reliable Wastewater Systems
-**Recommended subtitle:** Smart Drainage and Sewage Pumps for Safe and Efficient Commercial Building Operation.
+**Recommended subtitle:** Smart Drainage and Sewage Pump Selection for Safe and Efficient Commercial Building Operation.
 
 - **Date:** 20.10.2026 (Tuesday)
 - **Time:** 13:00–14:20 (KSA Time)
@@ -102,7 +102,7 @@ Bandar
 ## 0. Registration Content — Finalized Format (matches Webinar 1 registration email)
 
 **Webinar title:**
-Reliable Wastewater Systems: Smart Drainage and Sewage Pumps for Safe and Efficient Commercial Building Operation
+Reliable Wastewater Systems: Smart Drainage and Sewage Pump Selection for Safe and Efficient Commercial Building Operation
 
 **What you will learn:**
 This webinar is CPD-certified through Grundfos Holding A/S.
@@ -112,17 +112,17 @@ We'll explore how drainage and sewage systems play a critical role in delivering
 
 Our speakers **Marwan Rabie, [Job Title], Grundfos**, and **Ezz Mamdouh, [Job Title], Grundfos**, will share practical insights into how smart drainage design and correct sewage pump selection support stronger operational safety, better system reliability, and long-term lifecycle value, including:
 
-**• Drainage and sewage system fundamentals and system configurations**
-Understand the fundamentals of wastewater systems in commercial buildings, including collection pits, lifting stations, and discharge pipework, and how correct system design supports safe and efficient building operation.
+**• Wastewater classifications**
+Understand the different categories of wastewater in commercial buildings — drainage, grey water, and sewage — and how correct classification drives the right system design, pump selection, and compliance for each application.
 
-**• Sewage pump sizing and solids handling**
-Learn how flow, head, and solids content impact pump selection and system performance, and understand the causes and operational impact of clogging and blockages in commercial wastewater systems.
+**• Submersible pumps and the Grundfos range**
+Explore the Grundfos submersible pump portfolio for drainage and sewage applications — including impeller technologies, solids handling, and selection criteria for matching the right pump to the duty.
 
-**• Pump configurations and level control**
-Gain practical insight into duty/standby and duty/assist pump arrangements, and learn why correct level control and anti-clog impeller selection are essential for reliable operation, reduced downtime, and system protection.
+**• Grundfos controls**
+Learn how Grundfos level controls, pump controllers, and monitoring solutions deliver reliable automatic operation, protect pumps from dry running and clogging, and provide visibility over system performance.
 
-**• Monitoring, backflow prevention, and long-term system reliability**
-Understand the role of intelligent controls, monitoring, backflow prevention, and planned maintenance in protecting building hygiene, preventing overflows, and supporting long-term wastewater system reliability.
+**• Prefabricated pump stations**
+Discover how prefabricated pump stations simplify design and installation, ensure consistent quality, and provide a complete, reliable solution for collecting and transporting wastewater in commercial buildings.
 
 Register now to secure your spot. We look forward to seeing you at the webinar.
 
@@ -183,7 +183,7 @@ Dark commercial-building photography background (low-angle skyscraper shot, dusk
 Text on visual:
 - Label (small, white): **CPD Webinar**
 - Title (large, sand/gold): **Reliable Wastewater Systems**
-- Subtitle (white): **Smart Drainage and Sewage Pumps for Safe and Efficient Commercial Building Operation.**
+- Subtitle (white): **Smart Drainage and Sewage Pump Selection for Safe and Efficient Commercial Building Operation.**
 - 📅 icon + **20.10.2026**
 - 🕐 icon + **13:00 - 14:20 (KSA Time)**
 - Logo: **GRUNDFOS** (white, bottom-right)
@@ -219,10 +219,10 @@ In many commercial buildings across Saudi Arabia, drainage and sewage systems ca
 Join our upcoming CPD-certified webinar to discover how smart drainage design and correct sewage pump selection can improve operational safety, enhance system reliability, and reduce lifecycle costs.
 
 In this session, we'll cover:
-* Drainage and sewage system design fundamentals for commercial buildings
-* Collection pits, lifting stations, and discharge pipework design
-* How to select the right sewage pump — sizing, solids handling, and anti-clog impeller technology
-* Duty/standby configurations, level controls, and protection strategies for uninterrupted operation
+* Wastewater classifications — drainage, grey water, and sewage in commercial buildings
+* Submersible pumps and the Grundfos range for drainage and sewage applications
+* Grundfos controls for reliable automatic operation and pump protection
+* Prefabricated pump stations for complete, dependable wastewater handling
 
 Don't miss this opportunity to gain valuable insights into the wastewater pumping strategies that keep commercial buildings safe, hygienic, and efficient.
 
@@ -239,10 +239,10 @@ Join our upcoming CPD webinar featuring Marwan Rabie, an experienced wastewater 
 Marwan Rabie brings deep technical knowledge in designing dependable wastewater systems, preventing clogging and downtime, and helping stakeholders achieve safer and more efficient building operation.
 
 What you'll learn:
-✅ Drainage and sewage system design best practices for commercial buildings
-✅ How to size and select sewage pumps with the right solids-handling capability
-✅ Anti-clog technology, duty/standby configurations, and level control strategies
-✅ Practical approaches to reducing emergency callouts and lifecycle costs
+✅ Wastewater classifications and what they mean for system design and compliance
+✅ The Grundfos submersible pump range and how to match the right pump to the duty
+✅ Grundfos controls for automatic operation, pump protection, and monitoring
+✅ Prefabricated pump stations as a complete, reliable wastewater solution
 
 Whether you are designing a new facility or upgrading an existing installation, this session will provide practical insights to help you make smarter wastewater decisions.
 
@@ -258,13 +258,13 @@ Drainage and sewage systems are the hidden backbone of every major commercial bu
 
 The culprit is often in the pump selection: undersized units, wrong impeller technology, or missing controls quietly adding up to blockages, overflows, and premature failures.
 
-Join our CPD webinar on Microsoft Teams where Marwan Rabie — [Job Title], Grundfos — breaks down exactly where wastewater systems fail and how the right pumping strategy prevents it, covering drainage system design, sewage pump sizing and solids handling, anti-clog impeller selection, and duty/standby and control strategies for safe, uninterrupted building operation.
+Join our CPD webinar on Microsoft Teams where Marwan Rabie — [Job Title], Grundfos — breaks down exactly where wastewater systems fail and how the right pumping strategy prevents it, covering wastewater classifications, submersible pumps and the Grundfos range, Grundfos controls, and prefabricated pump stations for safe, uninterrupted building operation.
 
 📌 What you'll walk away with:
 
-• A clear framework for sizing and selecting drainage and sewage pumps
-• The ability to prevent clogging and overflow risks before they cost you
-• Practical knowledge on controls and configurations that keep buildings running safely
+• A clear understanding of wastewater classifications and what they mean for pump selection
+• The ability to match the right Grundfos submersible pump and controls to the duty
+• Practical knowledge of prefabricated pump stations that keep buildings running safely
 
 Reserve your seat: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
@@ -289,7 +289,7 @@ Smart drainage & sewage pump strategies for safe, efficient commercial buildings
 Register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
 ### WhatsApp 2 — Speaker highlight (13.10.2026, T-7)
-🎤 Meet the speaker: *Marwan Rabie, Grundfos* will share practical insights on sewage pump sizing, anti-clog technology & duty/standby configurations.
+🎤 Meet the speaker: *Marwan Rabie, Grundfos* will share practical insights on wastewater classifications, the Grundfos submersible pump range, controls & prefabricated pump stations.
 Free CPD webinar — 20 Oct, 13:00 KSA.
 Register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
@@ -324,10 +324,10 @@ Your building's wastewater system is out of sight — until it fails. In many co
 Join our CPD-certified webinar to discover how smart drainage design and correct sewage pump selection improve operational safety, system reliability, and lifecycle costs.
 
 **In this session, we'll cover:**
-- Drainage and sewage system design fundamentals for commercial buildings
-- Collection pits, lifting stations, and discharge pipework design
-- Sewage pump selection — sizing, solids handling, and anti-clog impeller technology
-- Duty/standby configurations, level controls, and protection strategies
+- Wastewater classifications — drainage, grey water, and sewage in commercial buildings
+- Submersible pumps and the Grundfos range for drainage and sewage applications
+- Grundfos controls for reliable automatic operation and pump protection
+- Prefabricated pump stations for complete, dependable wastewater handling
 
 **📅 20 October 2026 | 🕐 13:00–14:20 KSA Time | 💻 Microsoft Teams | 🎓 2 CPD Hours**
 
@@ -348,10 +348,10 @@ What separates a reliable wastewater system from a costly liability?
 Join our upcoming CPD webinar featuring **Marwan Rabie**, an experienced wastewater and pumping solutions professional with extensive expertise in drainage applications, sewage pump selection, and commercial building operation.
 
 **What you'll learn:**
-✅ Drainage and sewage system design best practices for commercial buildings
-✅ How to size and select sewage pumps with the right solids-handling capability
-✅ Anti-clog technology, duty/standby configurations, and level control strategies
-✅ Practical approaches to reducing emergency callouts and lifecycle costs
+✅ Wastewater classifications and what they mean for system design and compliance
+✅ The Grundfos submersible pump range and how to match the right pump to the duty
+✅ Grundfos controls for automatic operation, pump protection, and monitoring
+✅ Prefabricated pump stations as a complete, reliable wastewater solution
 
 Whether you are designing a new facility or upgrading an existing installation, this session provides practical insights for smarter wastewater decisions.
 
@@ -376,9 +376,9 @@ Drainage and sewage systems are the hidden backbone of every major commercial bu
 Join Marwan Rabie — [Job Title], Grundfos — as he breaks down where wastewater systems fail and how the right pumping strategy prevents it.
 
 **📌 What you'll walk away with:**
-- A clear framework for sizing and selecting drainage and sewage pumps
-- The ability to prevent clogging and overflow risks before they cost you
-- Practical knowledge on controls and configurations for safe, uninterrupted operation
+- A clear understanding of wastewater classifications and what they mean for pump selection
+- The ability to match the right Grundfos submersible pump and controls to the duty
+- Practical knowledge of prefabricated pump stations for safe, uninterrupted operation
 
 **[Reserve Your Seat →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
@@ -391,7 +391,7 @@ Grundfos Saudi Arabia
 
 Thank you to everyone who joined our CPD webinar on Reliable Wastewater Systems! 🙏
 
-Key takeaways: right-sized sewage pumps, anti-clog impeller technology, and intelligent controls keep commercial buildings safe, hygienic, and efficient.
+Key takeaways: correct wastewater classification, the right Grundfos submersible pump and controls, and prefabricated pump stations keep commercial buildings safe, hygienic, and efficient.
 
 Missed it? Stay tuned — the next webinar in our series is coming soon.
 

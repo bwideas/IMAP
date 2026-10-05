@@ -24,8 +24,8 @@
 ---
 
 ## Webinar 3 — Reliable Wastewater Systems
-- **Title:** Reliable Wastewater Systems: Smart Drainage and Sewage Pumps for Safe and Efficient Commercial Building Operation
-- **Theme:** Drainage vs. sewage pump selection, anti-clog design, and system protection strategies to prevent flooding and costly equipment damage in commercial buildings
+- **Title:** Reliable Wastewater Systems: Smart Drainage and Sewage Pump Selection for Safe and Efficient Commercial Building Operation
+- **Theme:** Wastewater classifications, submersible pumps and the Grundfos range, Grundfos controls, and prefabricated pump stations for safe and efficient commercial building operation
 - **Date:** 20 October 2026 | 13:00–14:20 KSA Time
 - **Platform:** Microsoft Teams | 2 CPD Hours
 - **Duration:** 1 hour 20 minutes
