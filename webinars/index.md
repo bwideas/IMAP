@@ -10,7 +10,7 @@
 - **Content:** Online meeting event page, professional social network Posts 1–3, Social Share (Announcement & Insights), Speaker bios, Tariq's video script
 - **Session:** Webinar 1: Optimized Chilled Water Webinar (ID: f039ee0b-b2dc-4c1e-9705-9006573afa7b)
 - **Branch:** theprimecore-webinar-1-hvac-applications
-- **File:** [webinars/webinar-1-hvac-applications.md](webinar-1-hvac-applications.md)
+- **File:** content archived (removed in repository restructure)
 
 ---
 

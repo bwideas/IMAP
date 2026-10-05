@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IMAP — Intelligent Marketing &amp; Automation Program — B2B Strategy</title>
+<style>
+  :root{
+    --bg:#0f1420; --card:#171e2e; --card2:#1d2537; --line:#2a3550;
+    --text:#e8edf6; --muted:#9aa7bd; --accent:#4f8ef7;
+    --ns:#8a93a6; --ip:#f2b53d; --done:#3ecf8e; --cancel:#f26d6d;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.55;}
+  .wrap{max-width:1000px; margin:0 auto; padding:2rem 1.25rem 4rem;}
+  header{padding:2.5rem 0 1.5rem; border-bottom:1px solid var(--line); margin-bottom:2rem;}
+  h1{font-size:1.9rem; letter-spacing:.5px;}
+  h1 .tag{color:var(--accent);}
+  .subtitle{color:var(--muted); margin-top:.4rem; font-size:1.05rem;}
+  .enduser{display:inline-flex; align-items:center; gap:.5rem; margin-top:1rem;
+    background:var(--card2); border:1px solid var(--line); border-radius:999px; padding:.4rem 1rem; font-size:.95rem;}
+  .enduser .dot{width:9px; height:9px; border-radius:50%; background:var(--done);}
+  h2{font-size:1.25rem; margin:2.2rem 0 .9rem; color:var(--accent);}
+  .card{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:1.25rem 1.4rem; margin-bottom:1rem;}
+  [contenteditable="true"]{outline:none; border-radius:6px; transition:background .15s;}
+  [contenteditable="true"]:hover{background:rgba(79,142,247,.08);}
+  [contenteditable="true"]:focus{background:rgba(79,142,247,.14); box-shadow:0 0 0 1px var(--accent);}
+  table{width:100%; border-collapse:collapse;}
+  th,td{padding:.65rem .7rem; text-align:left; border-bottom:1px solid var(--line); vertical-align:middle;}
+  th{color:var(--muted); font-weight:600; font-size:.85rem; text-transform:uppercase; letter-spacing:.06em;}
+  select.status{background:var(--card2); color:var(--text); border:1px solid var(--line); border-radius:8px; padding:.35rem .5rem; font-size:.9rem; cursor:pointer;}
+  select.status.ns{color:var(--ns); border-color:var(--ns);}
+  select.status.ip{color:var(--ip); border-color:var(--ip);}
+  select.status.done{color:var(--done); border-color:var(--done);}
+  select.status.cancel{color:var(--cancel); border-color:var(--cancel);}
+  .kpis{display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:1rem;}
+  .kpi{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:1rem 1.1rem;}
+  .kpi label{display:block; color:var(--muted); font-size:.85rem; margin-bottom:.45rem;}
+  .kpi input{width:100%; background:var(--card2); border:1px solid var(--line); border-radius:8px;
+    color:var(--text); font-size:1.35rem; font-weight:600; padding:.45rem .6rem;}
+  .kpi input:focus{outline:none; border-color:var(--accent);}
+  .toolbar{display:flex; gap:.6rem; flex-wrap:wrap; margin:.8rem 0 0;}
+  button{background:var(--accent); color:#fff; border:none; border-radius:8px; padding:.5rem 1rem; font-size:.9rem; cursor:pointer;}
+  button.ghost{background:transparent; border:1px solid var(--line); color:var(--muted);}
+  button:hover{filter:brightness(1.12);}
+  .del{background:transparent; border:none; color:var(--cancel); cursor:pointer; font-size:1rem;}
+  .savebar{position:fixed; bottom:1rem; right:1rem; background:var(--card2); border:1px solid var(--line);
+    border-radius:10px; padding:.5rem .9rem; font-size:.85rem; color:var(--muted); opacity:0; transition:opacity .3s;}
+  .savebar.show{opacity:1;}
+  ul{padding-left:1.3rem;}
+  footer{margin-top:3rem; border-top:1px solid var(--line); padding-top:1.2rem; color:var(--muted); font-size:.85rem;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1><span class="tag">IMAP</span> — <span contenteditable="true" data-key="title">Intelligent Marketing &amp; Automation Program</span></h1>
+    <p class="subtitle" contenteditable="true" data-key="subtitle">B2B Strategy — Marketing Development Program</p>
+    <div class="enduser"><span class="dot"></span> End User: <strong contenteditable="true" data-key="enduser">Bandar Aldawood</strong></div>
+  </header>
+
+  <h2>Overview</h2>
+  <div class="card">
+    <p contenteditable="true" data-key="overview">
+      IMAP (Intelligent Marketing &amp; Automation Program) is the B2B strategy layer of the Marketing
+      Development Program. It combines marketing automation, data-driven campaign management, and
+      intelligent lead nurturing to accelerate commercial growth. Click any text on this page to edit it —
+      your changes are saved automatically in this browser.
+    </p>
+  </div>
+
+  <h2>Key Numbers</h2>
+  <div class="kpis" id="kpis">
+    <div class="kpi"><label contenteditable="true" data-key="kpi1l">Leads Generated</label><input type="number" data-key="kpi1" placeholder="0"></div>
+    <div class="kpi"><label contenteditable="true" data-key="kpi2l">Campaigns Launched</label><input type="number" data-key="kpi2" placeholder="0"></div>
+    <div class="kpi"><label contenteditable="true" data-key="kpi3l">Pipeline Value (SAR)</label><input type="number" data-key="kpi3" placeholder="0"></div>
+    <div class="kpi"><label contenteditable="true" data-key="kpi4l">Conversion Rate (%)</label><input type="number" data-key="kpi4" placeholder="0"></div>
+    <div class="kpi"><label contenteditable="true" data-key="kpi5l">Emails Sent</label><input type="number" data-key="kpi5" placeholder="0"></div>
+    <div class="kpi"><label contenteditable="true" data-key="kpi6l">Webinar Attendees</label><input type="number" data-key="kpi6" placeholder="0"></div>
+  </div>
+
+  <h2>Actions &amp; Initiatives</h2>
+  <div class="card">
+    <table id="actions">
+      <thead>
+        <tr><th style="width:45%">Action</th><th style="width:20%">Owner</th><th style="width:22%">Status</th><th style="width:8%">Number</th><th></th></tr>
+      </thead>
+      <tbody id="actionsBody"></tbody>
+    </table>
+    <div class="toolbar">
+      <button id="addRow">+ Add Action</button>
+      <button class="ghost" id="resetAll">Reset Page</button>
+    </div>
+  </div>
+
+  <h2>Events &amp; Activities</h2>
+  <div class="card">
+    <table id="events">
+      <thead>
+        <tr><th style="width:16%">Category</th><th style="width:32%">Event / Activity</th><th style="width:18%">Date / Details</th><th style="width:18%">Status</th><th style="width:10%">Number</th><th></th></tr>
+      </thead>
+      <tbody id="eventsBody"></tbody>
+    </table>
+    <div class="toolbar">
+      <button id="addEvent">+ Add Event</button>
+    </div>
+  </div>
+
+  <h2>Notes</h2>
+  <div class="card">
+    <p contenteditable="true" data-key="notes">Add your notes here…</p>
+  </div>
+
+  <footer>
+    IMAP — Intelligent Marketing &amp; Automation Program · Part of the
+    <a href="../README.md" style="color:var(--accent)">Marketing Development Program</a> ·
+    All edits are stored locally in your browser (localStorage).
+  </footer>
+</div>
+
+<div class="savebar" id="savebar">✓ Saved</div>
+
+<script>
+(function(){
+  const STORE = "imap-page-v1";
+  const STATUSES = [
+    {v:"not-started", label:"Not Started", cls:"ns"},
+    {v:"in-progress", label:"In Progress", cls:"ip"},
+    {v:"completed",   label:"Completed",   cls:"done"},
+    {v:"canceled",    label:"Canceled",    cls:"cancel"}
+  ];
+  const DEFAULT_ROWS = [
+    {action:"Marketing automation platform setup", owner:"Bandar", status:"not-started", num:""},
+    {action:"Lead scoring & nurturing workflows",  owner:"Bandar", status:"not-started", num:""},
+    {action:"B2B campaign calendar (2026)",        owner:"Bandar", status:"not-started", num:""},
+    {action:"Distributor & partner program",       owner:"Bandar", status:"not-started", num:""},
+    {action:"Webinar series",                      owner:"Bandar", status:"not-started", num:""},
+    {action:"Always-ON email program",             owner:"Bandar", status:"not-started", num:""}
+  ];
+
+  const DEFAULT_EVENTS = [
+    // Webinars (CPD-certified series)
+    {cat:"Webinar", name:"Optimized Chilled Water Systems", detail:"Virtual · CPD", status:"completed", num:"200"},
+    {cat:"Webinar", name:"Optimizing HVAC Pumping Systems", detail:"30 Aug 2026 · CPD", status:"in-progress", num:""},
+    {cat:"Webinar", name:"Efficient Wastewater Pumping", detail:"22 Oct 2026 · CPD", status:"in-progress", num:""},
+    {cat:"Webinar", name:"Modular Systems", detail:"18 Nov 2026 · CPD", status:"in-progress", num:""},
+    // In-person events
+    {cat:"Event", name:"Ramadan Gatherings (4 cities)", detail:"Riyadh · Jeddah · Dammam · Cairo — Mar 2026", status:"completed", num:"859"},
+    {cat:"Event", name:"HVAC Day: Elevating HVAC Efficiency", detail:"Riyadh — Feb 2026", status:"completed", num:"255"},
+    {cat:"Event", name:"Energy Optimization Day", detail:"Cairo — Nov 2025", status:"completed", num:"119"},
+    {cat:"Event", name:"Mini Engineering Day 2025", detail:"Jeddah — Nov 2025", status:"completed", num:"114"},
+    {cat:"Event", name:"Let's Energize Growth", detail:"Sharm El-Sheikh — Dec 2025", status:"completed", num:"98"},
+    {cat:"Event", name:"Engineers Days, Trainings & Technical Sessions", detail:"Riyadh — 2026", status:"completed", num:"103"},
+    {cat:"Event", name:"VIP Partner Seminars (4 seminars)", detail:"Saudi Arabia — 2026", status:"completed", num:"200"},
+    {cat:"Event", name:"Big5 Construct Saudi", detail:"30 Aug – 2 Sep 2026", status:"not-started", num:""},
+    {cat:"Event", name:"Engineering Day", detail:"14 Oct 2026", status:"not-started", num:""},
+    {cat:"Event", name:"Engineering Day Jeddah", detail:"28 Oct 2026", status:"not-started", num:""},
+    {cat:"Event", name:"Engineering Camp", detail:"20–21 Nov 2026 · AlUla or Jeddah cruise", status:"not-started", num:""},
+    // Lunch & Learns
+    {cat:"Lunch & Learn", name:"Aftermarket Lunch & Learn — Jeddah", detail:"H2 2026", status:"not-started", num:""},
+    {cat:"Lunch & Learn", name:"Aftermarket Lunch & Learn — Riyadh", detail:"H2 2026", status:"not-started", num:""},
+    // AOC Emailer
+    {cat:"AOC Emailer", name:"AOC emailer program (48 assets)", detail:"22 completed · KSA + Egypt", status:"in-progress", num:"22"},
+    {cat:"AOC Emailer", name:"Remaining 24 emailers — H2 2026", detail:"Water Boosting, District Cooling, HVAC & more", status:"not-started", num:""},
+    // Social Media
+    {cat:"Social Media", name:"B2B – General campaign", detail:"55 posts · 18.56K reach", status:"in-progress", num:"55"},
+    {cat:"Social Media", name:"B2B – HVAC campaign", detail:"15 posts · 3.34K reach", status:"in-progress", num:"15"},
+    {cat:"Social Media", name:"B2B – Country Specific Content", detail:"7 posts · 3.51K reach", status:"in-progress", num:"7"},
+    {cat:"Social Media", name:"B2B – Reactive content", detail:"Ongoing", status:"in-progress", num:""},
+    // Online Campaigns
+    {cat:"Online Campaign", name:"Digital Campaign — GSA", detail:"With CPD certificates", status:"in-progress", num:""},
+    {cat:"Online Campaign", name:"B2B positioning / awareness campaign", detail:"SoMe & emailers", status:"in-progress", num:""},
+    // Trade Media Publishing
+    {cat:"Trade Media", name:"Trade media publishing — add article title…", detail:"Add publication & date", status:"not-started", num:""}
+  ];
+
+  let state = load();
+
+  function load(){
+    try{
+      const s = JSON.parse(localStorage.getItem(STORE)) || {};
+      s.texts = s.texts || {};
+      s.rows = s.rows || DEFAULT_ROWS.map(r=>({...r}));
+      s.events = s.events || DEFAULT_EVENTS.map(r=>({...r}));
+      return s;
+    }
+    catch(e){ return {texts:{}, rows:DEFAULT_ROWS.map(r=>({...r})), events:DEFAULT_EVENTS.map(r=>({...r}))}; }
+  }
+  function save(){
+    localStorage.setItem(STORE, JSON.stringify(state));
+    const bar = document.getElementById("savebar");
+    bar.classList.add("show");
+    clearTimeout(save._t); save._t = setTimeout(()=>bar.classList.remove("show"), 1200);
+  }
+
+  // Editable texts & KPI numbers
+  document.querySelectorAll("[data-key]").forEach(el=>{
+    const k = el.dataset.key;
+    if(el.tagName === "INPUT"){
+      if(state.texts[k] !== undefined) el.value = state.texts[k];
+      el.addEventListener("input", ()=>{ state.texts[k] = el.value; save(); });
+    } else {
+      if(state.texts[k] !== undefined) el.innerHTML = state.texts[k];
+      el.addEventListener("input", ()=>{ state.texts[k] = el.innerHTML; save(); });
+    }
+  });
+
+  // Actions table
+  const body = document.getElementById("actionsBody");
+  function render(){
+    body.innerHTML = "";
+    state.rows.forEach((row,i)=>{
+      const tr = document.createElement("tr");
+
+      const tdA = document.createElement("td");
+      tdA.contentEditable = "true"; tdA.textContent = row.action;
+      tdA.addEventListener("input", ()=>{ row.action = tdA.textContent; save(); });
+
+      const tdO = document.createElement("td");
+      tdO.contentEditable = "true"; tdO.textContent = row.owner;
+      tdO.addEventListener("input", ()=>{ row.owner = tdO.textContent; save(); });
+
+      const tdS = document.createElement("td");
+      const sel = document.createElement("select"); sel.className = "status";
+      STATUSES.forEach(s=>{
+        const o = document.createElement("option");
+        o.value = s.v; o.textContent = s.label;
+        if(row.status === s.v) o.selected = true;
+        sel.appendChild(o);
+      });
+      function paint(){ sel.className = "status " + STATUSES.find(s=>s.v===sel.value).cls; }
+      paint();
+      sel.addEventListener("change", ()=>{ row.status = sel.value; paint(); save(); });
+      tdS.appendChild(sel);
+
+      const tdN = document.createElement("td");
+      const num = document.createElement("input");
+      num.type = "number"; num.value = row.num; num.placeholder = "0";
+      num.style.cssText = "width:80px; background:var(--card2); color:var(--text); border:1px solid var(--line); border-radius:6px; padding:.3rem .4rem;";
+      num.addEventListener("input", ()=>{ row.num = num.value; save(); });
+      tdN.appendChild(num);
+
+      const tdX = document.createElement("td");
+      const del = document.createElement("button");
+      del.className = "del"; del.title = "Delete row"; del.textContent = "✕";
+      del.addEventListener("click", ()=>{ state.rows.splice(i,1); save(); render(); });
+      tdX.appendChild(del);
+
+      tr.append(tdA, tdO, tdS, tdN, tdX);
+      body.appendChild(tr);
+    });
+  }
+  render();
+
+  // Events table
+  const evBody = document.getElementById("eventsBody");
+  function editableTd(row, key){
+    const td = document.createElement("td");
+    td.contentEditable = "true"; td.textContent = row[key];
+    td.addEventListener("input", ()=>{ row[key] = td.textContent; save(); });
+    return td;
+  }
+  function renderEvents(){
+    evBody.innerHTML = "";
+    state.events.forEach((row,i)=>{
+      const tr = document.createElement("tr");
+      const tdCat = editableTd(row, "cat");
+      tdCat.style.color = "var(--accent)"; tdCat.style.fontWeight = "600";
+      const tdName = editableTd(row, "name");
+      const tdDetail = editableTd(row, "detail");
+      tdDetail.style.color = "var(--muted)"; tdDetail.style.fontSize = ".88rem";
+
+      const tdS = document.createElement("td");
+      const sel = document.createElement("select"); sel.className = "status";
+      STATUSES.forEach(s=>{
+        const o = document.createElement("option");
+        o.value = s.v; o.textContent = s.label;
+        if(row.status === s.v) o.selected = true;
+        sel.appendChild(o);
+      });
+      function paint(){ sel.className = "status " + STATUSES.find(s=>s.v===sel.value).cls; }
+      paint();
+      sel.addEventListener("change", ()=>{ row.status = sel.value; paint(); save(); });
+      tdS.appendChild(sel);
+
+      const tdN = document.createElement("td");
+      const num = document.createElement("input");
+      num.type = "number"; num.value = row.num; num.placeholder = "0";
+      num.style.cssText = "width:80px; background:var(--card2); color:var(--text); border:1px solid var(--line); border-radius:6px; padding:.3rem .4rem;";
+      num.addEventListener("input", ()=>{ row.num = num.value; save(); });
+      tdN.appendChild(num);
+
+      const tdX = document.createElement("td");
+      const del = document.createElement("button");
+      del.className = "del"; del.title = "Delete row"; del.textContent = "✕";
+      del.addEventListener("click", ()=>{ state.events.splice(i,1); save(); renderEvents(); });
+      tdX.appendChild(del);
+
+      tr.append(tdCat, tdName, tdDetail, tdS, tdN, tdX);
+      evBody.appendChild(tr);
+    });
+  }
+  renderEvents();
+
+  document.getElementById("addEvent").addEventListener("click", ()=>{
+    state.events.push({cat:"Event", name:"New event…", detail:"", status:"not-started", num:""});
+    save(); renderEvents();
+  });
+
+  document.getElementById("addRow").addEventListener("click", ()=>{
+    state.rows.push({action:"New action…", owner:"", status:"not-started", num:""});
+    save(); render();
+  });
+  document.getElementById("resetAll").addEventListener("click", ()=>{
+    if(confirm("Reset the whole page to defaults? All your edits will be lost.")){
+      localStorage.removeItem(STORE);
+      location.reload();
+    }
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,89 +1,139 @@
-# Marketing Development Program - B2B Initiative
+IMAP — Intelligent Marketing & Automation Program — B2B Strategy
 
-### Executive Summary
-This B2B marketing roadmap outlines the strategic development program for commercial growth in Saudi Arabia. The initiative focuses on digital innovation, strategic partnerships, customer-centric s[...]
+# 1.0 Executive Summary
 
-## 
-Industries:  
-- Data Center
-- Health care 	
-- Hospitality	
+This B2B marketing plan outlines the strategic development program for commercial growth in Saudi Arabia and Egypt. The program brings together marketing, digital engagement, automation, customer intelligence, stakeholder development, and performance optimization into one structured framework.
 
-Applications:
-- Pressure boosting
-- HVAC
-- Waste water
+The strategy focuses on strengthening market presence, improving customer engagement, developing strategic relationships, increasing marketing efficiency, and creating measurable contribution to the commercial pipeline.
 
-Verticals:
-- District cooling
-- After market Services 
+IMAP will prioritize high-value industries, applications, and customer groups while using data, digital channels, automation, and continuous performance optimization to create a more connected and scalable B2B marketing model.
 
 ---
 
-## Program Work & Deliverables
+## 1.1 Strategic Focus
 
-This index connects the completed and in-progress work to the roadmap phases and backlog:
+### Markets
 
-- **Webinars:** [Webinar Index](webinars/index.md) catalogs the webinar series and status; [Webinar 1: HVAC Applications](webinars/webinar-1-hvac-applications.md) contains the event brief, speaker copy, and promotional messages for the Phase 2 campaign-launch and event-to-pipeline backlog items. [Webinar 3: Reliable Wastewater Systems](webinars/webinar-3-wastewater-systems.md) is the registration page content, with its full promotional campaign in [Webinar 3: Promotion Plan](webinars/webinar-3-promotion.md).
-- **Portfolio:** [Marketing portfolio](portfolio/index.html) presents the program results, campaigns, tools, and upcoming work across the roadmap; [portfolio PDF](portfolio/Bandar-Aldawood-Marketing-Portfolio.pdf) is the shareable export. Supporting visual assets are in [`portfolio/assets/`](portfolio/assets/).
-- **Campaign template:** [Campaign launch performance gate](.github/ISSUE_TEMPLATE/campaign-launch-performance-gate.yml) operationalizes the UTM, ownership, and KPI checks in the implemented quick win and supports the Phase 2 launch process.
+* Saudi Arabia
+* MENA Region
 
-These deliverables provide the working body of evidence for the foundation, campaign launch, and optimization phases.
+### Industries
 
----
-## Strategic Objectives
+* Data Center
+* Health care
+* Mixed-Use Buildings
+* Residential
+* Hospitality
 
-### Market Penetration & Brand Presence
-Establish the brand as the preferred partner for commercial building solutions across Saudi Arabia through targeted market engagement and brand visibility.
+### Applications
 
-**Key Actions:**
-- Develop localized marketing campaigns reflecting Saudi Arabian business culture
-- Build strategic partnerships with major contractors and consulting engineers
-- Position expertise in energy-efficient, sustainable building solutions
-- Participate in major industry events such as Big 5, Engineering Day, and other construction events
-- Win at least one case story for a big project every year, including customer consent to publish it on the company website
+* Pressure boosting
+* HVAC
+* Wastewater
+* Heating & Cooling
 
-### Digital Innovation & Customer Engagement
-Create seamless digital experiences that educate, engage, and convert decision makers and contractors.
+### Verticals
 
-**Key Actions:**
-- Launch integrated digital campaigns across professional social networks, industry platforms, and digital channels
-- Develop technical content showcasing product efficiency and cost-saving benefits
-- Implement targeted advertising reaching facility managers and procurement professionals
-- Invest in paid media placements on websites related to construction and water solutions
-- Send email campaigns to contacts with confirmed (true) marketing permissions, including dedicated emails to customers and dealers
-
-### Stakeholder Relationship Building
-Foster long-term partnerships with key decision makers, contractors, and engineering firms through meaningful collaboration and support.
-
-**Key Actions:**
-- Organize industry forums, technical seminars, and product demonstrations
-- Establish direct communication channels with C-suite and technical decision makers
-- Create customized solutions for specific customer needs and business challenges
-- Deliver technical trainings for engineers to build interest in our products and solutions
-- Conduct customer visits to VIP customers to understand their needs
-
-### Sustainable Growth Through Cooperation
-Build a collaborative ecosystem supporting mutual growth and business success.
-
-**Key Actions:**
-- Develop distributor and contractor partner programs
-- Create incentive structures aligned with customer value delivery
-- Support customer success through comprehensive training and technical support
-- Support partners with branding budget and gifts to win their loyalty
+* District cooling
+* After market Services
+* Energy Optimization
 
 ---
 
-## Target Audience
-- **Facility Managers** - Commercial building operations and maintenance
-- **Procurement Directors** - Capital equipment and system selection
-- **Consulting Engineers** - HVAC and mechanical system design
-- **Contractors & Construction Firms** - Building execution and integration
-- **Property Developers** - New construction and renovation projects
+# 2.0 Strategic Pillars
+
+## 2.1 Market Penetration & Brand Leadership
+
+Strengthen the brand’s position as a preferred partner for commercial building solutions by increasing visibility, market relevance, and engagement across priority industries and customer segments.
+
+**Key Actions:**
+* Develop localized B2B campaigns aligned with market needs and business culture.
+* Increase visibility among contractors, consulting engineers, developers, and decision makers.
+* Build strategic relationships with major contractors, consultants, developers, and industry stakeholders.
+* Position expertise around energy efficiency, sustainability, reliability, and total lifecycle value.
+* Participate in major industry events, exhibitions, engineering forums, and technical events.
+* Secure at least one major project case story per year, subject to customer approval for external publication.
+* Strengthen digital presence around priority applications and industry challenges.
+
+## 2.2 Digital Innovation & Customer Engagement
+
+Create connected digital experiences that educate, engage, nurture, and convert B2B decision makers.
+
+**Key Actions:**
+* Develop integrated campaigns across social media, email, websites, industry platforms, and paid media.
+* Create technical and commercial content addressing customer challenges.
+* Develop application-focused content for HVAC, pressure boosting, wastewater, district cooling, and aftermarket services.
+* Implement targeted advertising for high-value customer segments.
+* Develop Arabic and English content where relevant.
+* Use permission-based email marketing for customers, dealers, prospects, and other qualified contacts.
+* Build structured customer journeys from awareness through consideration and conversion.
+* Use campaign data to continuously improve content and channel performance.
+
+## 2.3 Intelligent Marketing & Automation
+
+Use automation, marketing technology, and intelligent data practices to improve efficiency, scalability, personalization, and decision-making.
+
+**Key Actions:**
+* Automate repetitive campaign and marketing processes.
+* Implement standardized campaign tracking and reporting.
+* Develop centralized marketing dashboards for performance visibility.
+* Improve lead capture, qualification, routing, and follow-up processes.
+* Introduce automated lead nurturing and customer journeys.
+* Develop audience segmentation based on industry, role, company, engagement, and customer value.
+* Use intelligent tools to support content creation, localization, personalization, and campaign optimization.
+* Establish automated reporting for campaign performance, leads, engagement, and pipeline contribution.
+* Identify repetitive manual processes and prioritize them for automation.
+* Continuously evaluate new marketing technologies that can improve productivity and customer experience.
+
+## 2.4 Stakeholder Relationship Building
+
+Develop deeper relationships with decision makers, engineering firms, contractors, developers, and strategic customers.
+
+**Key Actions:**
+* Organize technical seminars, industry forums, product demonstrations, and workshops.
+* Establish direct engagement with C-suite and technical decision makers.
+* Conduct VIP customer visits to understand business needs and market challenges.
+* Develop customized engagement plans for strategic accounts.
+* Deliver technical training programs for engineers and consultants.
+* Build stronger relationships with consulting engineers who influence product and solution selection.
+* Capture customer feedback and translate insights into marketing and commercial actions.
+
+## 2.5 Partner & Ecosystem Development
+
+Build a strong ecosystem of distributors, contractors, consultants, and strategic partners that supports mutual growth.
+
+**Key Actions:**
+* Develop structured distributor and contractor engagement programs.
+* Identify and prioritize high-value strategic partners.
+* Develop co-marketing opportunities with selected partners.
+* Provide partners with relevant marketing materials, branding support, and campaign resources.
+* Develop partner training and enablement programs.
+* Conduct regular partner performance reviews.
+* Establish partner engagement metrics and shared objectives.
+* Strengthen partner loyalty through consistent communication, support, and value creation.
 
 ---
 
-## Campaign Channels & Tactics
+# 3.0 Target Audience
+
+## 3.1 Primary Decision Makers:
+* Facility & Project Managers
+* Procurement Directors
+* Consulting Engineers
+* Contractors & Construction Firms
+* Property Developers
+* Operations & Maintenance Managers
+
+## 3.2 Secondary Influencers:
+* Engineering Consultants
+* Project Owners
+* System Integrators
+* Distributors
+* Dealers
+
+---
+
+# 4.0 Campaign Channels & Tactics
 
 | Channel | Tactic | Objective |
 |---------|--------|-----------|
@@ -101,47 +151,85 @@ Build a collaborative ecosystem supporting mutual growth and business success.
 
 ---
 
-## Key Performance Indicators (KPIs)
+# 5.0 Performance & Measurement
 
-- **Lead Generation:** Target volume and quality metrics from digital campaigns
-- **Market Awareness:** Brand recognition among target decision makers
-- **Partnership Growth:** Number and caliber of strategic relationships established
-- **Event Engagement:** Attendance, follow-up conversions, and partnership outcomes
-- **Digital Metrics:** Website traffic, content engagement, conversion rates
-- **Revenue Impact:** Pipeline development and closed deals attributed to the B2B program
-- **Case Stories:** At least one big project case story secured per year, with customer consent for publication on the company website
+IMAP will operate using a measurable performance framework connecting marketing activity to customer engagement, qualified leads, pipeline development, and commercial outcomes.
+
+**Core KPIs**
+
+## 5.1 Awareness
+* Reach
+* Impressions
+* Website traffic
+* Brand engagement
+
+## 5.2 Engagement
+* Content engagement
+* Email open and click-through rates
+* Event attendance
+* Training participation
+
+## 5.3 Lead Generation
+* Leads
+* MQLs
+* SQLs
+* Conversion rate
+
+## 5.4 Commercial Impact
+* Marketing-influenced pipeline
+* Opportunities generated
+* Pipeline conversion
+* Won revenue
+
+## 5.5 Relationship Development
+* Strategic accounts engaged
+* VIP customer visits
+* Partner growth
+* Engineer engagement
+* Customer/partner satisfaction
+
+## 5.6 Content & Market Credibility
+* Major case stories secured
+* Customer-approved publications
+* Technical content performance
 
 ---
 
-## Performance Improvement Backlog (Prioritized)
+# 6.0 Performance Improvement Backlog (Prioritized)
 
-1. **Standardize campaign tracking with a mandatory UTM taxonomy and single KPI dashboard** *(Highest impact, lowest effort)*
-2. **Launch lead-source attribution (first-touch + last-touch) in CRM**
-3. **Define MQL/SQL scoring rubric to improve lead quality**
-4. **Implement conversion-focused landing page A/B testing**
-5. **Set SLA-based lead routing and follow-up automation**
-6. **Build account-based marketing (ABM) lists for top commercial prospects**
-7. **Repurpose high-performing content into Arabic + English multi-format assets**
-8. **Create event-to-pipeline playbooks with standardized post-event nurture**
-9. **Run quarterly partner performance reviews with shared scorecards**
-10. **Add budget reallocation rules based on cost-per-qualified-lead thresholds**
-11. **Document every campaign, launch gate, KPI update, and optimization decision in one shared roadmap**
-12. **Track all experiments, content, partner motions, and follow-up actions so the full body of work is visible**
+The following priorities will improve marketing effectiveness and create a stronger foundation for automation.
 
-### Implemented Quick Win: UTM Taxonomy + Unified KPI Dashboard
+* Standardize campaign tracking with a mandatory UTM taxonomy and single KPI dashboard (Highest impact, lowest effort)
+* Launch lead-source attribution (first-touch + last-touch) in CRM
+* Define MQL/SQL scoring rubric to improve lead quality
+* Implement conversion-focused landing page A/B testing
+* Set SLA-based lead routing and follow-up automation
+* Build account-based marketing (ABM) lists for top commercial prospects
+* Repurpose high-performing content into Arabic + English multi-format assets
+* Create event-to-pipeline playbooks with standardized post-event nurture
+* Run quarterly partner performance reviews with shared scorecards
+* Add budget reallocation rules based on cost-per-qualified-lead thresholds
+* Document every campaign, launch gate, KPI update, and optimization decision in one shared strategy
+* Track all experiments, content, partner motions, and follow-up actions so the full body of work is visible
+
+---
+
+# 7.0 Campaign Measurement Framework
+
+Implemented Quick Win: UTM Taxonomy + Unified KPI Dashboard
 
 To improve campaign performance visibility immediately, all digital campaigns should use a shared UTM format and feed a single weekly dashboard.
 
-**UTM convention (required):**
+## 7.1 UTM convention (required):
 - `utm_source` (social-network, search, email, partner)
 - `utm_medium` (paid_social, cpc, webinar, newsletter)
 - `utm_campaign` (phase_objective_audience, e.g., `p2_leadgen_facilitymanagers`)
 - `utm_content` (creative or asset identifier)
 
-**Campaign URL template (copy/paste):**
+## 7.2 Campaign URL template (copy/paste):
 `https://www.example.com/{landing-page}?utm_source={source}&utm_medium={medium}&utm_campaign={phase_objective_audience}&utm_content={asset_id}`
 
-**Weekly dashboard minimum fields:**
+## 7.3 Weekly dashboard minimum fields:
 - Spend
 - Clicks
 - CTR
@@ -153,56 +241,119 @@ To improve campaign performance visibility immediately, all digital campaigns sh
 - Influenced Pipeline
 - Won Revenue
 
-**Definition of done (required before launch):**
-1. Every campaign link includes all four UTM fields.
-2. The campaign appears on the weekly KPI dashboard within 24 hours.
-3. Marketing owner and sales owner are assigned for weekly optimization decisions.
+## 7.4 Definition of done (required before launch):
 
-**Operating cadence:** Review weekly with marketing + sales and reallocate budget to top-performing channels using CPL and cost-per-MQL as the primary short-term decision metrics.
+Before a campaign goes live:
+1. Tracking structure is completed.
+2. Campaign objectives and KPIs are defined.
+3. Marketing owner is assigned.
+4. Sales owner is assigned where lead generation is involved.
+5. Target audience is defined.
+6. Dashboard tracking is confirmed.
+7. Follow-up process is agreed.
 
-### Quick-Win Operationalization: Campaign Launch Performance Gate
+## 7.5 Operating cadence:
+
+Review weekly with marketing + sales and reallocate budget to top-performing channels using CPL and cost-per-MQL as the primary short-term decision metrics.
+
+## 7.6 Quick-Win Operationalization: Campaign Launch Performance Gate
 
 To make the highest-impact, lowest-effort item enforceable in day-to-day execution, use the launch gate template before any campaign goes live.
 
 **Template path:** `.github/ISSUE_TEMPLATE/campaign-launch-performance-gate.yml`
 
-**What it enforces:**
-- Complete UTM fields before launch approval
-- Named marketing and sales owners
-- Baseline KPI targets (CPL and cost per MQL) and dashboard-link visibility
+### What it enforces:
+* Complete UTM fields before launch approval
+* Named marketing and sales owners
+* Baseline KPI targets (CPL and cost per MQL) and dashboard-link visibility
 
 ---
 
-## Timeline & Phases
+# 8.0 Timeline & Phases
 
-**Phase 1 (Months 1-3):** Foundation & Strategy
-- Market research and competitive analysis
-- Partner identification and outreach
-- Digital foundation setup (website optimization, content calendar)
+## Phase 1 — **Foundation** | Months 1–3
 
-**Phase 2 (Months 4-6):** Campaign Launch
-- Digital campaign activation
-- Event scheduling and execution
-- Content rollout and social media presence
+**Objective:** Establish the strategic and operational foundation.
 
-**Phase 3 (Months 7-12):** Optimization & Growth
-- Performance analysis and campaign refinement
-- Partnership expansion and deepening
-- Market response evaluation and strategy adjustment
+* Market and competitor analysis
+* Priority account identification
+* Audience segmentation
+* Partner mapping
+* Campaign tracking framework
+* KPI dashboard development
+* Content strategy
+* Marketing automation opportunities
+* Digital channel optimization
+
+## Phase 2 — **Activation** | Months 4–6
+
+**Objective:** Launch and activate priority marketing initiatives.
+
+* Integrated digital campaigns
+* Paid media activation
+* Email campaigns
+* Industry events
+* Engineer training
+* Customer engagement activities
+* Partner campaigns
+* Lead nurturing workflows
+* Content rollout
+
+## Phase 3 — **Optimization & Growth** | Months 7–12
+
+**Objective:** Scale what works and improve commercial impact.
+
+* Campaign performance optimization
+* Budget optimization
+* Lead quality improvement
+* Account-based marketing
+* Partner development
+* Customer insight analysis
+* Automation expansion
+* Case story development
+* Pipeline impact measurement
 
 ---
 
-## Success Factors
+# 9.0 Success Factors
 ✓ Customer-centric solution positioning  
 ✓ Authentic local market engagement  
+✓ Consistent B2B engagement  
+✓ Intelligent use of automation  
+✓ Strong sales and marketing alignment  
 ✓ Data-driven decision making  
-✓ Strong partnership ecosystem  
+✓ High-quality technical content  
+✓ Strategic partner ecosystem  
 ✓ Continuous innovation and adaptation  
 ✓ Sustainability and value focus  
 
 ---
 
-## Governance & Accountability
-**Project Lead:** [B2B Program Owner]  
-**Marketing Team:** Responsible for campaign execution and digital presence
+# 10.0 Governance & Accountability
+
+**Project Lead:** Bandar  
+**Program Lead:** Bandar  
+**Marketing Team:** Responsible for campaign execution and digital presence  
 **Sales Team:** Responsible for direct stakeholder engagement and relationship building  
+
+---
+
+# 11.0 Operating Cadence
+
+**Weekly:** Campaign and performance review
+**Monthly:** Marketing and sales performance review
+**Quarterly:** Strategic review, budget optimization, partner performance, and roadmap updates
+**Annually:** Strategic assessment and next-year planning
+
+---
+
+# 12.0 IMAP Strategic Outcome
+
+IMAP aims to create a more intelligent, connected, measurable, and scalable B2B marketing model — moving from activity-based marketing toward data-driven customer engagement and measurable commercial impact.
+
+---
+
+# 13.0 Program Deliverables
+
+- **Webinar series index:** [webinars/index.md](webinars/index.md)
+- **Webinar 3 — Reliable Wastewater Systems:** [registration page](webinars/webinar-3-wastewater-systems.md) and [promotional campaign plan](webinars/webinar-3-promotion.md)
