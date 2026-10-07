@@ -176,6 +176,7 @@
   ];
 
   let state = load();
+  let saveTimeout = null;
 
   function load(){
     try{
@@ -188,11 +189,22 @@
     catch(e){ return {texts:{}, rows:DEFAULT_ROWS.map(r=>({...r})), events:DEFAULT_EVENTS.map(r=>({...r}))}; }
   }
   function save(){
+    clearTimeout(saveTimeout);
+    saveTimeout = setTimeout(persist, 250);
+  }
+  function persist(){
+    saveTimeout = null;
     localStorage.setItem(STORE, JSON.stringify(state));
     const bar = document.getElementById("savebar");
     bar.classList.add("show");
-    clearTimeout(save._t); save._t = setTimeout(()=>bar.classList.remove("show"), 1200);
+    clearTimeout(persist._t); persist._t = setTimeout(()=>bar.classList.remove("show"), 1200);
   }
+  window.addEventListener("pagehide", ()=>{
+    if(saveTimeout !== null){
+      clearTimeout(saveTimeout);
+      persist();
+    }
+  });
 
   // Editable texts & KPI numbers
   document.querySelectorAll("[data-key]").forEach(el=>{
@@ -314,6 +326,8 @@
   });
   document.getElementById("resetAll").addEventListener("click", ()=>{
     if(confirm("Reset the whole page to defaults? All your edits will be lost.")){
+      clearTimeout(saveTimeout);
+      saveTimeout = null;
       localStorage.removeItem(STORE);
       location.reload();
     }
