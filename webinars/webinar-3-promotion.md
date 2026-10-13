@@ -2,6 +2,48 @@
 
 ---
 
+## Email to Gopinath — Finalized Email 2 invitation copy (Marketo, send 14.10.2026)
+
+**Subject:** Webinar 3 — Finalized invitation email copy for Marketo (send 14 October)
+
+Hi Gopinath,
+
+Hope you're doing well.
+
+Please find below the finalized copy for the second Marketo touchpoint of the Webinar 3 campaign, built on the Grundfos global "You're invited" email template. Kindly schedule it for **Tuesday, 14 October 2026 (T-6)**.
+
+**Email subject line:** Your seat is waiting: mastering wastewater pumping in commercial buildings
+**Preheader:** One session. Four topics every building engineer should know. 2 CPD hours on us.
+**Header banner:** You're invited to our reliable wastewater systems webinar
+**Sign-up button link:** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+
+**Body copy:**
+
+What does it take to keep a commercial building's wastewater moving — quietly, safely, and without surprises?
+
+Spend 80 minutes with Grundfos specialists Marwan Rabie and Ezz Mamdouh as they walk through the engineering decisions behind dependable drainage and sewage pumping, from first classification to final installation.
+
+You'll walk away knowing:
+- How to read a building's wastewater profile — and why getting the category right shapes everything that follows
+- Where each Grundfos submersible pump fits, and how to pair the machine to the mission
+- What intelligent Grundfos controls add: hands-off operation, built-in protection, and full visibility
+- Why prefabricated pump stations are becoming the go-to answer for fast, consistent, worry-free installations
+
+**20 October 2026**
+13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
+
+**Teams meeting details (for the confirmation email):**
+- Meeting join link: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+- Meeting ID: 313 851 722 686 428
+- Passcode: [to be added]
+
+I'm also sharing this with the team for their review — if there are any updates or suggested changes, please feel free to mention them.
+
+Thanks and best regards,
+Bandar
+
+---
+
 ## Email to Gopinath — Webinar 3 registration content + social media & email plan
 
 Hi Gopinath,
