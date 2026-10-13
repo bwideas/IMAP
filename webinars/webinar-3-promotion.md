@@ -340,24 +340,22 @@ Grundfos Saudi Arabia
 
 *(Mirrors the Grundfos "You're invited" webinar email layout — header banner, Sign up button, intro question, insights bullets, date/time.)*
 
-**Subject:** You're invited: Reliable Wastewater Systems Webinar
-**Preheader:** Smart drainage and sewage pump selection for commercial buildings. 2 CPD hours, free on Microsoft Teams.
+**Subject:** Your seat is waiting: mastering wastewater pumping in commercial buildings
+**Preheader:** One session. Four topics every building engineer should know. 2 CPD hours on us.
 
 **Header banner:** You're invited to our reliable wastewater systems webinar
 
 **[Sign up here →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
-How can commercial buildings prevent wastewater failures, reduce maintenance costs, and ensure safe, hygienic operation at the same time?
+What does it take to keep a commercial building's wastewater moving — quietly, safely, and without surprises?
 
-Join Grundfos experts Marwan Rabie and Ezz Mamdouh for an engineering-focused CPD webinar on smart drainage and sewage pump selection for commercial building applications.
+Spend 80 minutes with Grundfos specialists Marwan Rabie and Ezz Mamdouh as they walk through the engineering decisions behind dependable drainage and sewage pumping, from first classification to final installation.
 
-You'll gain practical insights into:
-- Wastewater classifications — drainage, grey water, and sewage in commercial buildings
-- Smarter approaches to sewage pump selection and system control
-- Proven wastewater solutions from Grundfos:
-  - Submersible pumps and the Grundfos range for drainage and sewage applications
-  - Grundfos controls for autonomous operation and pump protection
-- Prefabricated pump stations for complete, dependable wastewater handling
+You'll walk away knowing:
+- How to read a building's wastewater profile — and why getting the category right shapes everything that follows
+- Where each Grundfos submersible pump fits, and how to pair the machine to the mission
+- What intelligent Grundfos controls add: hands-off operation, built-in protection, and full visibility
+- Why prefabricated pump stations are becoming the go-to answer for fast, consistent, worry-free installations
 
 **20 October 2026**
 13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
