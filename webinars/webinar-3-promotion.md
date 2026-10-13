@@ -24,18 +24,10 @@ What does it take to keep a commercial building's wastewater moving — quietly,
 Spend 80 minutes with Grundfos specialists Marwan Rabie and Ezz Mamdouh as they walk through the engineering decisions behind dependable drainage and sewage pumping, from first classification to final installation.
 
 You'll walk away knowing:
-
-**Wastewater Classifications**
-Know your flows — drainage, grey water, and sewage — and let the category guide the design.
-
-**Submersible Pumps**
-Find the right fit across the Grundfos drainage and sewage range.
-
-**Grundfos Controls**
-Automatic operation, built-in pump protection, and full system visibility.
-
-**Prefabricated Pump Stations**
-One complete unit — simpler design, faster installation, dependable performance.
+- Know your flows — drainage, grey water, and sewage — and let the category guide the design
+- Find the right fit across the Grundfos drainage and sewage range
+- Automatic operation, built-in pump protection, and full system visibility
+- One complete unit — simpler design, faster installation, dependable performance
 
 **20 October 2026**
 13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
@@ -402,18 +394,10 @@ What does it take to keep a commercial building's wastewater moving — quietly,
 Spend 80 minutes with Grundfos specialists Marwan Rabie and Ezz Mamdouh as they walk through the engineering decisions behind dependable drainage and sewage pumping, from first classification to final installation.
 
 You'll walk away knowing:
-
-**Wastewater Classifications**
-Know your flows — drainage, grey water, and sewage — and let the category guide the design.
-
-**Submersible Pumps**
-Find the right fit across the Grundfos drainage and sewage range.
-
-**Grundfos Controls**
-Automatic operation, built-in pump protection, and full system visibility.
-
-**Prefabricated Pump Stations**
-One complete unit — simpler design, faster installation, dependable performance.
+- Know your flows — drainage, grey water, and sewage — and let the category guide the design
+- Find the right fit across the Grundfos drainage and sewage range
+- Automatic operation, built-in pump protection, and full system visibility
+- One complete unit — simpler design, faster installation, dependable performance
 
 **20 October 2026**
 13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
