@@ -12,7 +12,7 @@ Hope you're doing well.
 
 Please find below the finalized copy for the second Marketo touchpoint of the Webinar 3 campaign, built on the Grundfos global "You're invited" email template. Kindly schedule it for **Tuesday, 14 October 2026 (T-6)**.
 
-**Email subject line:** Reliable building operation starts with smarter wastewater pumping
+**Email subject line:** Out of sight, never out of control — smarter wastewater pumping starts here
 **Preheader:** One session. Four topics every building engineer should know. 2 CPD hours on us.
 **Header banner:** You're invited to our reliable wastewater systems webinar
 **Sign-up button link:** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
@@ -382,7 +382,7 @@ Grundfos Saudi Arabia
 
 *(Mirrors the Grundfos "You're invited" webinar email layout — header banner, Sign up button, intro question, insights bullets, date/time.)*
 
-**Subject:** Reliable building operation starts with smarter wastewater pumping
+**Subject:** Out of sight, never out of control — smarter wastewater pumping starts here
 **Preheader:** One session. Four topics every building engineer should know. 2 CPD hours on us.
 
 **Header banner:** You're invited to our reliable wastewater systems webinar
