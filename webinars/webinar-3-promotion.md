@@ -312,29 +312,6 @@ Join: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
 ## 4. Emails (mirroring each post)
 
-### Invitation Email — Grundfos global template format
-
-*(Mirrors the Grundfos "You're invited" webinar email layout — header banner, Sign up button, intro question, insights bullets, date/time.)*
-
-**Header banner:** You're invited to our reliable wastewater systems webinar
-
-**[Sign up here →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
-
-How can commercial buildings prevent wastewater failures, reduce maintenance costs, and ensure safe, hygienic operation at the same time?
-
-Join Grundfos experts Marwan Rabie and Ezz Mamdouh for an engineering-focused CPD webinar on smart drainage and sewage pump selection for commercial building applications.
-
-You'll gain practical insights into:
-- Wastewater classifications — drainage, grey water, and sewage in commercial buildings
-- Smarter approaches to sewage pump selection and system control
-- Proven wastewater solutions from Grundfos:
-  - Submersible pumps and the Grundfos range for drainage and sewage applications
-  - Grundfos controls for autonomous operation and pump protection
-- Prefabricated pump stations for complete, dependable wastewater handling
-
-**20 October 2026**
-13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
-
 ### Email 1 — Topic & business value (send 08.10.2026, T-12)
 
 **Subject:** [CPD Webinar] Reliable Wastewater Systems — Is Your Building Protected?
@@ -359,31 +336,31 @@ Join our CPD-certified webinar to discover how smart drainage design and correct
 Best regards,
 Grundfos Saudi Arabia
 
-### Email 2 — Speaker highlight (send 14.10.2026, T-6)
+### Email 2 — Invitation, Grundfos global template format (send 14.10.2026, T-6)
 
-**Subject:** Meet Your Speaker: Marwan Rabie on Reliable Wastewater Systems
-**Preheader:** Practical sewage pump selection insights from a Grundfos wastewater expert. Earn 2 CPD hours.
+*(Mirrors the Grundfos "You're invited" webinar email layout — header banner, Sign up button, intro question, insights bullets, date/time.)*
 
-Dear [First Name],
+**Subject:** You're invited: Reliable Wastewater Systems Webinar
+**Preheader:** Smart drainage and sewage pump selection for commercial buildings. 2 CPD hours, free on Microsoft Teams.
 
-What separates a reliable wastewater system from a costly liability?
+**Header banner:** You're invited to our reliable wastewater systems webinar
 
-Join our upcoming CPD webinar featuring **Marwan Rabie**, an experienced wastewater and pumping solutions professional with extensive expertise in drainage applications, sewage pump selection, and commercial building operation.
+**[Sign up here →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
-**What you'll learn:**
-✅ Wastewater classifications and what they mean for system design and compliance
-✅ The Grundfos submersible pump range and how to match the right pump to the duty
-✅ Grundfos controls for automatic operation, pump protection, and monitoring
-✅ Prefabricated pump stations as a complete, reliable wastewater solution
+How can commercial buildings prevent wastewater failures, reduce maintenance costs, and ensure safe, hygienic operation at the same time?
 
-Whether you are designing a new facility or upgrading an existing installation, this session provides practical insights for smarter wastewater decisions.
+Join Grundfos experts Marwan Rabie and Ezz Mamdouh for an engineering-focused CPD webinar on smart drainage and sewage pump selection for commercial building applications.
 
-**📅 20 October 2026 | 🕐 13:00–14:20 KSA Time | 💻 Microsoft Teams | 🎓 2 CPD Hours**
+You'll gain practical insights into:
+- Wastewater classifications — drainage, grey water, and sewage in commercial buildings
+- Smarter approaches to sewage pump selection and system control
+- Proven wastewater solutions from Grundfos:
+  - Submersible pumps and the Grundfos range for drainage and sewage applications
+  - Grundfos controls for autonomous operation and pump protection
+- Prefabricated pump stations for complete, dependable wastewater handling
 
-**[Register Now →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
-
-Best regards,
-Grundfos Saudi Arabia
+**20 October 2026**
+13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
 
 ### Email 3 — Reminder & final call (send 17.10.2026, T-3)
 
@@ -432,8 +409,8 @@ Missed it? Stay tuned — the next webinar in our series is coming soon.
 
 ## 7. Checklist — What's still needed from you
 
-- [ ] Confirm Marwan Rabie's exact job title
-- [ ] Marwan Rabie's professional photo (for Visual 2)
+- [x] Confirm Marwan Rabie's exact job title
+- [x] Marwan Rabie's professional photo (for Visual 2)
 - [x] Create Teams event → registration link (short gfos.ly links per asset still pending)
 - [x] Confirm 20.10.2026 (Tuesday)
 - [x] Send briefs + this copy to the designer
