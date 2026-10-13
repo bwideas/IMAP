@@ -24,10 +24,10 @@ What does it take to keep a commercial building's wastewater moving — quietly,
 Spend 80 minutes with Grundfos specialists Marwan Rabie and Ezz Mamdouh as they walk through the engineering decisions behind dependable drainage and sewage pumping, from first classification to final installation.
 
 You'll walk away knowing:
-- How to read a building's wastewater profile — and why getting the category right shapes everything that follows
-- Where each Grundfos submersible pump fits, and how to pair the machine to the mission
-- What intelligent Grundfos controls add: hands-off operation, built-in protection, and full visibility
-- Why prefabricated pump stations are becoming the go-to answer for fast, consistent, worry-free installations
+- Reading a building's wastewater profile — and why it shapes everything
+- Matching the right Grundfos submersible pump to the duty
+- Intelligent controls: hands-off operation, built-in protection
+- Prefabricated pump stations for fast, worry-free installation
 
 **20 October 2026**
 13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
@@ -394,10 +394,10 @@ What does it take to keep a commercial building's wastewater moving — quietly,
 Spend 80 minutes with Grundfos specialists Marwan Rabie and Ezz Mamdouh as they walk through the engineering decisions behind dependable drainage and sewage pumping, from first classification to final installation.
 
 You'll walk away knowing:
-- How to read a building's wastewater profile — and why getting the category right shapes everything that follows
-- Where each Grundfos submersible pump fits, and how to pair the machine to the mission
-- What intelligent Grundfos controls add: hands-off operation, built-in protection, and full visibility
-- Why prefabricated pump stations are becoming the go-to answer for fast, consistent, worry-free installations
+- Reading a building's wastewater profile — and why it shapes everything
+- Matching the right Grundfos submersible pump to the duty
+- Intelligent controls: hands-off operation, built-in protection
+- Prefabricated pump stations for fast, worry-free installation
 
 **20 October 2026**
 13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
