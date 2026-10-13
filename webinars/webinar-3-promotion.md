@@ -312,6 +312,29 @@ Join: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
 ## 4. Emails (mirroring each post)
 
+### Invitation Email — Grundfos global template format
+
+*(Mirrors the Grundfos "You're invited" webinar email layout — header banner, Sign up button, intro question, insights bullets, date/time.)*
+
+**Header banner:** You're invited to our reliable wastewater systems webinar
+
+**[Sign up here →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+
+How can commercial buildings prevent wastewater failures, reduce maintenance costs, and ensure safe, hygienic operation at the same time?
+
+Join Grundfos experts Marwan Rabie and Ezz Mamdouh for an engineering-focused CPD webinar on smart drainage and sewage pump selection for commercial building applications.
+
+You'll gain practical insights into:
+- Wastewater classifications — drainage, grey water, and sewage in commercial buildings
+- Smarter approaches to sewage pump selection and system control
+- Proven wastewater solutions from Grundfos:
+  - Submersible pumps and the Grundfos range for drainage and sewage applications
+  - Grundfos controls for autonomous operation and pump protection
+- Prefabricated pump stations for complete, dependable wastewater handling
+
+**20 October 2026**
+13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
+
 ### Email 1 — Topic & business value (send 08.10.2026, T-12)
 
 **Subject:** [CPD Webinar] Reliable Wastewater Systems — Is Your Building Protected?
@@ -412,5 +435,5 @@ Missed it? Stay tuned — the next webinar in our series is coming soon.
 - [ ] Confirm Marwan Rabie's exact job title
 - [ ] Marwan Rabie's professional photo (for Visual 2)
 - [x] Create Teams event → registration link (short gfos.ly links per asset still pending)
-- [ ] Confirm 20.10.2026 (Tuesday)
+- [x] Confirm 20.10.2026 (Tuesday)
 - [x] Send briefs + this copy to the designer
