@@ -274,11 +274,11 @@ Register here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zX
 
 ### Post 2 — Short Q&A format (13.10.2026, T-7)
 
-Can commercial buildings prevent wastewater failures, cut maintenance costs — and stay safe and hygienic at the same time?
+Every building has a story below ground level. How does yours end — with quiet reliability, or a 2 a.m. emergency call?
 
-Yes — through correct wastewater classification, smart submersible pump selection and intelligent control solutions.
+The difference comes down to three choices: knowing what's flowing, choosing the pump built for it, and letting intelligent controls do the watching.
 
-Join our CPD webinar on Tuesday 20 Oct to explore these and other practical approaches to reliable wastewater systems in commercial buildings, with Grundfos experts Marwan Rabie and Ezz Mamdouh.
+On Tuesday 20 Oct, Grundfos experts Marwan Rabie and Ezz Mamdouh take you from wastewater classification to prefabricated pump stations — the complete playbook for drainage and sewage done right in commercial buildings.
 
 👉 Sign up here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
