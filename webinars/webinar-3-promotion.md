@@ -272,25 +272,17 @@ Secure your place on 20 October 2026, 13:00–14:20 KSA Time
 
 Register here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
-### Post 2 — Speaker highlight (13.10.2026, T-7)
+### Post 2 — Short Q&A format (13.10.2026, T-7)
 
-Curious about what separates a reliable wastewater system from a costly liability?
+Can commercial buildings prevent wastewater failures, cut maintenance costs — and stay safe and hygienic at the same time?
 
-Join our upcoming CPD webinar featuring Marwan Rabie, an experienced wastewater and pumping solutions professional with extensive expertise in drainage applications, sewage pump selection, and commercial building operation.
+Yes — through correct wastewater classification, smart submersible pump selection and intelligent control solutions.
 
-Marwan Rabie brings deep technical knowledge in designing dependable wastewater systems, preventing clogging and downtime, and helping stakeholders achieve safer and more efficient building operation.
+Join our CPD webinar on Tuesday 20 Oct to explore these and other practical approaches to reliable wastewater systems in commercial buildings, with Grundfos experts Marwan Rabie and Ezz Mamdouh.
 
-What you'll learn:
-✅ Wastewater classifications and what they mean for system design and compliance
-✅ The Grundfos submersible pump range and how to match the right pump to the duty
-✅ Grundfos controls for automatic operation, pump protection, and monitoring
-✅ Prefabricated pump stations as a complete, reliable wastewater solution
-
-Whether you are designing a new facility or upgrading an existing installation, this session will provide practical insights to help you make smarter wastewater decisions.
+👉 Sign up here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
 📅 20 October 2026 | 13:00–14:20 KSA Time | Microsoft Teams | 2 CPD Hours
-
-Register here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
 ### Post 3 — Reminder (16.10.2026, T-4)
 
