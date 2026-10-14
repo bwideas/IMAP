@@ -272,11 +272,11 @@ Secure your place on 20 October 2026, 13:00–14:20 KSA Time
 
 Register here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
-### Post 2 — Short Q&A format (13.10.2026, T-7)
+### Post 2 — Statement format (13.10.2026, T-7)
 
-Can commercial buildings keep wastewater moving safely, avoid costly breakdowns – and protect hygiene at the same time?
+Safe wastewater handling, fewer breakdowns and protected hygiene – commercial buildings can have all three.
 
-Yes – through correct classification, the right submersible pump and smart, self-protecting controls.
+It starts with correct classification, the right submersible pump and smart, self-protecting controls.
 
 Join our CPD webinar on Tues 20 Oct to explore these and other practical approaches to dependable drainage and sewage systems, with Grundfos experts Marwan Rabie and Ezz Mamdouh.
 
