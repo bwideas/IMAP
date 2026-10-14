@@ -176,6 +176,8 @@
   ];
 
   let state = load();
+  let saveTimer = null;
+  let hideTimer = null;
 
   function load(){
     try{
@@ -188,11 +190,27 @@
     catch(e){ return {texts:{}, rows:DEFAULT_ROWS.map(r=>({...r})), events:DEFAULT_EVENTS.map(r=>({...r}))}; }
   }
   function save(){
-    localStorage.setItem(STORE, JSON.stringify(state));
     const bar = document.getElementById("savebar");
+    bar.textContent = "Saving…";
     bar.classList.add("show");
-    clearTimeout(save._t); save._t = setTimeout(()=>bar.classList.remove("show"), 1200);
+    clearTimeout(saveTimer);
+    clearTimeout(hideTimer);
+    saveTimer = setTimeout(persist, 250);
   }
+  function persist(){
+    saveTimer = null;
+    const bar = document.getElementById("savebar");
+    try{
+      localStorage.setItem(STORE, JSON.stringify(state));
+    } catch(error){
+      bar.textContent = "Save failed";
+      throw error;
+    }
+    bar.textContent = "✓ Saved";
+    clearTimeout(hideTimer);
+    hideTimer = setTimeout(()=>bar.classList.remove("show"), 1200);
+  }
+  window.addEventListener("pagehide", ()=>{ if(saveTimer !== null){ clearTimeout(saveTimer); persist(); } });
 
   // Editable texts & KPI numbers
   document.querySelectorAll("[data-key]").forEach(el=>{
@@ -314,6 +332,8 @@
   });
   document.getElementById("resetAll").addEventListener("click", ()=>{
     if(confirm("Reset the whole page to defaults? All your edits will be lost.")){
+      clearTimeout(saveTimer);
+      saveTimer = null;
       localStorage.removeItem(STORE);
       location.reload();
     }
