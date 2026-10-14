@@ -274,15 +274,15 @@ Register here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zX
 
 ### Post 2 — Short Q&A format (13.10.2026, T-7)
 
-Every building has a story below ground level. How does yours end — with quiet reliability, or a 2 a.m. emergency call?
+Can commercial buildings keep wastewater moving safely, avoid costly breakdowns – and protect hygiene at the same time?
 
-The difference comes down to three choices: knowing what's flowing, choosing the pump built for it, and letting intelligent controls do the watching.
+Yes – through correct classification, the right submersible pump and smart, self-protecting controls.
 
-On Tuesday 20 Oct, Grundfos experts Marwan Rabie and Ezz Mamdouh take you from wastewater classification to prefabricated pump stations — the complete playbook for drainage and sewage done right in commercial buildings.
+Join our CPD webinar on Tues 20 Oct to explore these and other practical approaches to dependable drainage and sewage systems, with Grundfos experts Marwan Rabie and Ezz Mamdouh.
 
 👉 Sign up here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
-📅 20 October 2026 | 13:00–14:20 KSA Time | Microsoft Teams | 2 CPD Hours
+One session: 13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
 
 ### Post 3 — Reminder (16.10.2026, T-4)
 
