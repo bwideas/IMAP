@@ -91,18 +91,18 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 
 *Email (Marketo — 3 touchpoints, excluding the automation registration email):*
 - T-12 days (08.10.2026): Topic & business value
-- T-6 days (14.10.2026): Speaker highlight
+- T-6 days (14.10.2026): Invitation (Grundfos global template)
 - T-3 days (17.10.2026): Reminder & final call
 
 *Social media (Sprinklr & Social share — 4 posts):*
 - T-12 days (08.10.2026): Topic & business value
-- T-7 days (13.10.2026): Speaker highlight
+- T-7 days (13.10.2026): Statement post — solution highlight
 - T-4 days (16.10.2026): Reminder
 - T-2 days (18.10.2026): Final call
 
 *WhatsApp broadcast (5 messages):*
 - T-12 days (08.10.2026): Topic & business value
-- T-7 days (13.10.2026): Speaker highlight
+- T-7 days (13.10.2026): Statement — solution highlight
 - T-4 days (16.10.2026): Reminder
 - T-2 days (18.10.2026): Final call
 - T-1 day (19.10.2026): Webinar reminder
@@ -181,7 +181,7 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 | Touchpoint | Date | Content |
 | --- | --- | --- |
 | T-12 days | 08.10.2026 | Topic & business value (Email 1) |
-| T-6 days | 14.10.2026 | Speaker highlight (Email 2) |
+| T-6 days | 14.10.2026 | Invitation — Grundfos global template (Email 2) |
 | T-3 days | 17.10.2026 | Reminder & final call (Email 3) |
 
 *Excluding Marketo automation webinar email for the registration.
@@ -190,7 +190,7 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 | Touchpoint | Date | Content |
 | --- | --- | --- |
 | T-12 days | 08.10.2026 | Topic & business value (Post 1) |
-| T-7 days | 13.10.2026 | Speaker highlight (Post 2) |
+| T-7 days | 13.10.2026 | Statement post — solution highlight (Post 2) |
 | T-4 days | 16.10.2026 | Reminder (Post 3) |
 | T-2 days | 18.10.2026 | Final call (Post 4) |
 
@@ -198,7 +198,7 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 | Touchpoint | Date | Content |
 | --- | --- | --- |
 | T-12 days | 08.10.2026 | Topic & business value |
-| T-7 days | 13.10.2026 | Speaker highlight |
+| T-7 days | 13.10.2026 | Statement — solution highlight |
 | T-4 days | 16.10.2026 | Reminder |
 | T-2 days | 18.10.2026 | Final call |
 | T-1 day | 19.10.2026 | Webinar reminder |
@@ -322,9 +322,9 @@ Smart drainage & sewage pump strategies for safe, efficient commercial buildings
 📅 20 Oct 2026 | 🕐 13:00–14:20 KSA | 💻 Microsoft Teams | 🎓 2 CPD hours
 Register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
-### WhatsApp 2 — Speaker highlight (13.10.2026, T-7)
-🎤 Meet the speaker: *Marwan Rabie, Grundfos* will share practical insights on wastewater classifications, the Grundfos submersible pump range, controls & prefabricated pump stations.
-Free CPD webinar — 20 Oct, 13:00 KSA.
+### WhatsApp 2 — Statement, solution highlight (13.10.2026, T-7)
+💧 Safe wastewater handling, fewer breakdowns & protected hygiene — your building can have all three. Join *Marwan Rabie & Ezz Mamdouh, Grundfos* to learn how.
+Free CPD webinar — 20 Oct, 13:00–14:20 KSA.
 Register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
 ### WhatsApp 3 — Reminder (16.10.2026, T-4)
