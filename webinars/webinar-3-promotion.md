@@ -100,13 +100,6 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 - T-4 days (16.10.2026): Impact statement
 - T-2 days (18.10.2026): Final call
 
-*WhatsApp broadcast (5 messages):*
-- T-12 days (08.10.2026): Topic & business value
-- T-7 days (13.10.2026): Statement — solution highlight
-- T-4 days (16.10.2026): Reminder
-- T-2 days (18.10.2026): Final call
-- T-1 day (19.10.2026): Webinar reminder
-
 *Advocacy:*
 - Sales & Sales Development teams to extend webinar visibility by sharing invitations through emails and WhatsApp messages
 - Involve channel partners and their sales teams to promote the webinar externally to their customer contacts
@@ -119,7 +112,7 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 
 Webinar date: Tuesday, 20.10.2026 | 13:00–14:20 (KSA Time) | Microsoft Teams | 2 CPD Hours
 
-The full posts, emails, and WhatsApp copy for each stage are available in the campaign sections below.
+The full posts and emails for each stage are available in the campaign sections below.
 
 Best regards,
 Bandar
@@ -194,15 +187,6 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 | T-4 days | 16.10.2026 | Impact statement (Post 3) |
 | T-2 days | 18.10.2026 | Final call (Post 4) |
 
-### WhatsApp Broadcast (5 messages)
-| Touchpoint | Date | Content |
-| --- | --- | --- |
-| T-12 days | 08.10.2026 | Topic & business value |
-| T-7 days | 13.10.2026 | Statement — solution highlight |
-| T-4 days | 16.10.2026 | Reminder |
-| T-2 days | 18.10.2026 | Final call |
-| T-1 day | 19.10.2026 | Webinar reminder |
-
 ### Advocacy actions
 - Sales & Sales Development teams to extend webinar visibility by sharing invitations through emails and WhatsApp messages
 - Involve channel partners and their sales teams to promote the webinar externally to their customer contacts
@@ -213,7 +197,7 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 - Share recording after the webinar (email / WhatsApp where applicable)
 - Sales follow-up alignment on interest & enquiries from the webinar — creation of MQLs
 
-**UTM convention:** `utm_source=linkedin/email/whatsapp`, `utm_medium=paid_social/webinar/newsletter`, `utm_campaign=p2_webinar3_wastewater`, `utm_content=post1-4/email1-3/wa1-5`
+**UTM convention:** `utm_source=linkedin/email`, `utm_medium=paid_social/webinar/newsletter`, `utm_campaign=p2_webinar3_wastewater`, `utm_content=post1-4/email1-3`
 
 ---
 
@@ -303,36 +287,6 @@ This Tuesday, 20 October 2026 (13:00–14:20 KSA), join our CPD-certified webina
 🎓 2 CPD hours | 💻 Microsoft Teams | Speaker: Marwan Rabie, Grundfos
 
 Don't miss your last chance to register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
-
----
-
-## 3b. WhatsApp Broadcast Messages (5 messages)
-
-### WhatsApp 1 — Topic & business value (08.10.2026, T-12)
-🔵 *Grundfos CPD Webinar — Reliable Wastewater Systems*
-Smart drainage & sewage pump strategies for safe, efficient commercial buildings.
-📅 20 Oct 2026 | 🕐 13:00–14:20 KSA | 💻 Microsoft Teams | 🎓 2 CPD hours
-Register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
-
-### WhatsApp 2 — Statement, solution highlight (13.10.2026, T-7)
-💧 Safe wastewater handling, fewer breakdowns & protected hygiene — your building can have all three. Join *Marwan Rabie & Ezz Mamdouh, Grundfos* to learn how.
-Free CPD webinar — 20 Oct, 13:00–14:20 KSA.
-Register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
-
-### WhatsApp 3 — Reminder (16.10.2026, T-4)
-⏰ 4 days to go! Reliable Wastewater Systems CPD webinar — learn how the right pump selection prevents blockages, overflows & downtime.
-📅 20 Oct | 13:00–14:20 KSA | 2 CPD hours
-Register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
-
-### WhatsApp 4 — Final call (18.10.2026, T-2)
-🔔 Final call — 2 days left! Secure your seat for our CPD webinar on wastewater systems for commercial buildings.
-📅 Tuesday 20 Oct | 13:00 KSA | Microsoft Teams
-Register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
-
-### WhatsApp 5 — Webinar reminder (19.10.2026, T-1)
-📢 Tomorrow at 13:00 KSA! Reliable Wastewater Systems CPD webinar goes live on Microsoft Teams.
-Meeting ID: 313 851 722 686 428
-Join: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
 ---
 
