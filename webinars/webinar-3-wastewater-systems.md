@@ -8,7 +8,7 @@
 - **Duration:** 1 hour 20 minutes
 - **Platform:** Microsoft Teams
 - **CPD:** 2 certified hours
-- **Registration:** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+- **Registration:** http://gfos.ly/6043BHGdEH
 
 ## Description
 This webinar is CPD-certified through Grundfos Holding A/S.

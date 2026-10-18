@@ -15,7 +15,7 @@ Please find below the finalized copy for the second Marketo touchpoint of the We
 **Email subject line:** Out of sight, never out of control — smarter wastewater pumping starts here
 **Preheader:** One session. Four topics every building engineer should know. 2 CPD hours on us.
 **Header banner:** You're invited to our reliable wastewater systems webinar
-**Sign-up button link:** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+**Sign-up button link:** http://gfos.ly/6043BHGdEH
 
 **Body copy:**
 
@@ -130,7 +130,7 @@ Bandar
 - **Platform:** Microsoft Teams
 - **CPD:** 2 certified hours (The CPD Certification Service, via Grundfos Holding A/S)
 - **Speaker:** Marwan Rabie — [Job Title, Grundfos — to confirm]
-- **Registration link:** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li (create gfos.ly short links per asset)
+- **Registration link:** http://gfos.ly/6043BHGdEH
 
 ---
 
@@ -254,7 +254,7 @@ Don't miss this opportunity to gain valuable insights into the wastewater pumpin
 
 Secure your place on 20 October 2026, 13:00–14:20 KSA Time
 
-Register here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+Register here: http://gfos.ly/6043BHGdEH
 
 ### Post 2 — Statement format (13.10.2026, T-7)
 
@@ -264,7 +264,7 @@ It starts with correct classification, the right submersible pump and smart, sel
 
 Join our CPD webinar on Tues 20 Oct to explore these and other practical approaches to dependable drainage and sewage systems, with Grundfos experts Marwan Rabie and Ezz Mamdouh.
 
-👉 Sign up here: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+👉 Sign up here: http://gfos.ly/6043BHGdEH
 
 One session: 13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
 
@@ -274,7 +274,7 @@ A single blocked sewage pump can shut down an entire commercial building – it'
 
 Wastewater handled right becomes an invisible strength of building operation. With correct classification, the right submersible pump, intelligent controls and prefabricated pump stations, buildings stay safe, hygienic and running without interruption.
 
-👉 Discover how – sign up to the CPD webinar: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+👉 Discover how – sign up to the CPD webinar: http://gfos.ly/6043BHGdEH
 
 📅 Tuesday 20 October 2026 | 13:00–14:20 KSA Time | Microsoft Teams | 2 CPD Hours
 
@@ -286,7 +286,7 @@ This Tuesday, 20 October 2026 (13:00–14:20 KSA), join our CPD-certified webina
 
 🎓 2 CPD hours | 💻 Microsoft Teams | Speaker: Marwan Rabie, Grundfos
 
-Don't miss your last chance to register: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+Don't miss your last chance to register: http://gfos.ly/6043BHGdEH
 
 ---
 
@@ -311,7 +311,7 @@ Join our CPD-certified webinar to discover how smart drainage design and correct
 
 **📅 20 October 2026 | 🕐 13:00–14:20 KSA Time | 💻 Microsoft Teams | 🎓 2 CPD Hours**
 
-**[Register Now →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+**[Register Now →]** http://gfos.ly/6043BHGdEH
 
 Best regards,
 Grundfos Saudi Arabia
@@ -325,7 +325,7 @@ Grundfos Saudi Arabia
 
 **Header banner:** You're invited to our reliable wastewater systems webinar
 
-**[Sign up here →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+**[Sign up here →]** http://gfos.ly/6043BHGdEH
 
 What does it take to keep a commercial building's wastewater moving — quietly, safely, and without surprises?
 
@@ -358,7 +358,7 @@ Join Marwan Rabie — [Job Title], Grundfos — as he breaks down where wastewat
 - The ability to match the right Grundfos submersible pump and controls to the duty
 - Practical knowledge of prefabricated pump stations for safe, uninterrupted operation
 
-**[Reserve Your Seat →]** https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+**[Reserve Your Seat →]** http://gfos.ly/6043BHGdEH
 
 See you online,
 Grundfos Saudi Arabia
@@ -389,6 +389,6 @@ Missed it? Stay tuned — the next webinar in our series is coming soon.
 
 - [x] Confirm Marwan Rabie's exact job title
 - [x] Marwan Rabie's professional photo (for Visual 2)
-- [x] Create Teams event → registration link (short gfos.ly links per asset still pending)
+- [x] Create Teams event → registration link (gfos.ly short link received: http://gfos.ly/6043BHGdEH)
 - [x] Confirm 20.10.2026 (Tuesday)
 - [x] Send briefs + this copy to the designer
