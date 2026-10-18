@@ -97,7 +97,7 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 *Social media (Sprinklr & Social share — 4 posts):*
 - T-12 days (08.10.2026): Topic & business value
 - T-7 days (13.10.2026): Statement post — solution highlight
-- T-4 days (16.10.2026): Reminder
+- T-4 days (16.10.2026): Impact statement
 - T-2 days (18.10.2026): Final call
 
 *WhatsApp broadcast (5 messages):*
@@ -191,7 +191,7 @@ Register now to secure your spot. We look forward to seeing you at the webinar.
 | --- | --- | --- |
 | T-12 days | 08.10.2026 | Topic & business value (Post 1) |
 | T-7 days | 13.10.2026 | Statement post — solution highlight (Post 2) |
-| T-4 days | 16.10.2026 | Reminder (Post 3) |
+| T-4 days | 16.10.2026 | Impact statement (Post 3) |
 | T-2 days | 18.10.2026 | Final call (Post 4) |
 
 ### WhatsApp Broadcast (5 messages)
@@ -284,23 +284,15 @@ Join our CPD webinar on Tues 20 Oct to explore these and other practical approac
 
 One session: 13:00 – 14:20 KSA Time | Microsoft Teams | 2 CPD Hours
 
-### Post 3 — Reminder (16.10.2026, T-4)
+### Post 3 — Impact statement (16.10.2026, T-4)
 
-Final Reminder: We're going live this Tuesday, 20 October 2026 (13:00–14:20 KSA).
+A single blocked sewage pump can shut down an entire commercial building – it's time to design it out, not deal with it later.
 
-Drainage and sewage systems are the hidden backbone of every major commercial building — but most only get attention after something goes wrong.
+Wastewater handled right becomes an invisible strength of building operation. With correct classification, the right submersible pump, intelligent controls and prefabricated pump stations, buildings stay safe, hygienic and running without interruption.
 
-The culprit is often in the pump selection: undersized units, wrong impeller technology, or missing controls quietly adding up to blockages, overflows, and premature failures.
+👉 Discover how – sign up to the CPD webinar: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
 
-Join our CPD webinar on Microsoft Teams where Marwan Rabie — [Job Title], Grundfos — breaks down exactly where wastewater systems fail and how the right pumping strategy prevents it, covering wastewater classifications, submersible pumps and the Grundfos range, Grundfos controls, and prefabricated pump stations for safe, uninterrupted building operation.
-
-📌 What you'll walk away with:
-
-• A clear understanding of wastewater classifications and what they mean for pump selection
-• The ability to match the right Grundfos submersible pump and controls to the duty
-• Practical knowledge of prefabricated pump stations that keep buildings running safely
-
-Reserve your seat: https://teams.microsoft.com/meet/313851722686428?p=I375YmfspJ48zXa5Li
+📅 Tuesday 20 October 2026 | 13:00–14:20 KSA Time | Microsoft Teams | 2 CPD Hours
 
 ### Post 4 — Final call (18.10.2026, T-2)
 
