@@ -124,6 +124,7 @@
 <script>
 (function(){
   const STORE = "imap-page-v1";
+  const SAVE_DELAY = 250;
   const STATUSES = [
     {v:"not-started", label:"Not Started", cls:"ns"},
     {v:"in-progress", label:"In Progress", cls:"ip"},
@@ -176,6 +177,7 @@
   ];
 
   let state = load();
+  let saveTimer;
 
   function load(){
     try{
@@ -188,11 +190,24 @@
     catch(e){ return {texts:{}, rows:DEFAULT_ROWS.map(r=>({...r})), events:DEFAULT_EVENTS.map(r=>({...r}))}; }
   }
   function save(){
-    localStorage.setItem(STORE, JSON.stringify(state));
     const bar = document.getElementById("savebar");
+    bar.textContent = "Saving…";
     bar.classList.add("show");
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(()=>{
+      localStorage.setItem(STORE, JSON.stringify(state));
+      bar.textContent = "✓ Saved";
+      saveTimer = undefined;
+    }, SAVE_DELAY);
     clearTimeout(save._t); save._t = setTimeout(()=>bar.classList.remove("show"), 1200);
   }
+  window.addEventListener("pagehide", ()=>{
+    if(saveTimer !== undefined){
+      clearTimeout(saveTimer);
+      localStorage.setItem(STORE, JSON.stringify(state));
+      saveTimer = undefined;
+    }
+  });
 
   // Editable texts & KPI numbers
   document.querySelectorAll("[data-key]").forEach(el=>{
