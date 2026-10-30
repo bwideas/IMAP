@@ -310,7 +310,7 @@ To make the highest-impact, lowest-effort item enforceable in day-to-day executi
 * Partner development
 * Customer insight analysis
 * Automation expansion
-* Case story development
+* Case story development — published on the customer-facing [CBS Project Stories](projects/) site (see `projects/README.md`)
 * Pipeline impact measurement
 
 ---

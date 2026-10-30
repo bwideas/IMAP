@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CBS Project Stories</title>
+<meta name="description" content="Commercial Building Services — landmark projects across Saudi Arabia & MENA.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="home">
+  <div class="topbar"><div class="wrap">
+    <a class="brand" href="index.html">CBS <span>Project Stories</span></a>
+    <a class="btn" data-contact="Project enquiry" href="#">Contact our team</a>
+  </div></div>
+
+  <header class="hero"><div class="wrap">
+    <div class="eyebrow">Project news · 2025/2026</div>
+    <h1 data-site="tagline"></h1>
+    <p>Real projects, real results. Explore how we help consultants, contractors and building owners deliver reliable, energy-efficient water and HVAC systems.</p>
+    <div class="stats">
+      <div class="stat"><b id="statProjects">0</b><span>Projects</span></div>
+      <div class="stat"><b id="statIndustries">0</b><span>Industries</span></div>
+      <div class="stat"><b id="statCities">0</b><span>Cities</span></div>
+      <div class="stat"><b id="statCountries">0</b><span>Countries</span></div>
+    </div>
+  </div></header>
+
+  <main class="wrap">
+    <div id="featured"></div>
+
+    <div class="filters">
+      <input id="q" type="search" placeholder="Search projects, cities, applications…" aria-label="Search">
+      <select id="fIndustry" aria-label="Industry"><option value="">All industries</option></select>
+      <select id="fApp" aria-label="Application"><option value="">All applications</option></select>
+      <select id="fCountry" aria-label="Country"><option value="">All countries</option></select>
+      <select id="fYear" aria-label="Year"><option value="">All years</option></select>
+    </div>
+    <div class="count" id="count"></div>
+    <div class="grid" id="grid"></div>
+
+    <div class="cta">
+      <div><h2 data-site="contactCta"></h2><p style="color:var(--muted)">Our application engineers support you from design to commissioning and service.</p></div>
+      <a class="btn" data-contact="Project enquiry" href="#">Get in touch</a>
+    </div>
+  </main>
+
+  <footer><div class="wrap">© <span id="year"></span> <span data-site="name"></span> · Projects shown with customer approval.</div></footer>
+
+  <script src="data/projects.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
