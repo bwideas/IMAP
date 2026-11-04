@@ -11,11 +11,11 @@
   const uniq = arr => [...new Set(arr.filter(Boolean))].sort();
   const $ = id => document.getElementById(id);
 
-  function media(p, cls){
-    const bg = p.image ? ` style="background-image:url('${esc(p.image)}')"` : "";
+  function media(p, cls, eager){
+    const image = p.image ? `<img class="media-image" src="${esc(p.image)}" alt="" loading="${eager ? "eager" : "lazy"}" decoding="async">` : "";
     const ph = p.image ? "" : `<div class="ph">${esc(p.industry || "Project")}<br>photo coming soon</div>`;
     const badge = p.sample ? `<span class="badge-sample">Sample</span>` : "";
-    return `<div class="media ${cls || ""}"${bg}>${ph}${badge}</div>`;
+    return `<div class="media ${cls || ""}">${image}${ph}${badge}</div>`;
   }
   function tags(p){
     return `<div class="meta">
@@ -46,7 +46,7 @@
     const feat = ALL.find(p => p.featured);
     if(feat){
       $("featured").innerHTML = `<a class="featured" href="${link(feat)}">
-        ${media(feat)}
+        ${media(feat, "", true)}
         <div class="body">${tags(feat)}<h2>${esc(feat.title)}</h2><p>${esc(feat.summary)}</p>
           <p style="margin-top:1rem"><span class="btn">Read the story →</span></p></div></a>`;
     }
@@ -108,7 +108,7 @@
         ${p.sample ? `<div class="notice-sample">Sample story — replace with real, customer-approved content before sharing.</div>` : ""}
       </div></div>
       <div class="wrap">
-        ${p.image ? media(p, "story-media") : ""}
+        ${p.image ? media(p, "story-media", true) : ""}
         ${metrics ? `<div class="kpis">${metrics}</div>` : ""}
         <div class="story-grid">
           <div>
