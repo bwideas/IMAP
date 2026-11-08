@@ -1,0 +1,44 @@
+{
+  "theme": "GF Colours Word 01",
+  "colours": {
+    "dk1": "#000000",
+    "lt1": "#FFFFFF",
+    "dk2": "#E9F1F7",
+    "lt2": "#7497B2",
+    "accent1": "#11497B",
+    "accent2": "#126AF3",
+    "accent3": "#47A6FF",
+    "accent4": "#092844",
+    "accent5": "#E3C181",
+    "accent6": "#F0DDBA",
+    "hlink": "#126AF3",
+    "folHlink": "#126AF3"
+  },
+  "roles": {
+    "dk1": "text",
+    "lt1": "background / white",
+    "dk2": "pale blue panels and total rows",
+    "lt2": "steel blue - secondary text on dark slides",
+    "accent1": "dark blue - table headers, bars, labels",
+    "accent2": "bright blue - slide titles",
+    "accent3": "light blue - use sparingly",
+    "accent4": "navy - dark backgrounds",
+    "accent5": "sand - avoid in reports",
+    "accent6": "light sand - avoid in reports",
+    "hlink": "hyperlinks",
+    "folHlink": "followed hyperlinks"
+  },
+  "extra": {
+    "line_grey": "#CCCFD7",
+    "muted_text": "#595959"
+  },
+  "fonts": {
+    "title": "Grundfos TheSans Extd Black",
+    "body": "Grundfos TheSans SemiLight",
+    "emphasis": "Grundfos TheSans SemiBold"
+  },
+  "slide_size_in": [
+    13.333,
+    7.5
+  ]
+}

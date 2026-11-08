@@ -350,3 +350,14 @@ To make the highest-impact, lowest-effort item enforceable in day-to-day executi
 # 12.0 IMAP Strategic Outcome
 
 IMAP aims to create a more intelligent, connected, measurable, and scalable B2B marketing model — moving from activity-based marketing toward data-driven customer engagement and measurable commercial impact.
+
+---
+
+# 13.0 Program Work & Deliverables
+
+Working files that support the plan live in this repository:
+
+* **IMAP plan page:** [imap/index.html](imap/index.html) – web version of this strategy document.
+* **CBS Project Stories:** [projects/](projects/) – customer-facing news site with CBS project references (see [projects/README.md](projects/README.md)).
+* **Brand kit:** [Grundfos brand kit](brand/README.md) – the Grundfos 2022 PowerPoint template, logo files, theme colours, font guidance and the python-pptx helper (`brand/tools/grundfos_pptx.py`) that every PPT report is built with.
+* **Reports:** [Data Centre Trade Media Report, July 2026](reports/2026-07-data-centre-trade-media/README.md) – results of the Saudi Projects (TPG Media) and Gulf Construction data-centre features; the first report built on the brand kit.
