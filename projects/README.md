@@ -15,7 +15,7 @@ There's no build step and nothing to install. Open `index.html` in a browser to 
 1. Open `data/projects.js` and copy one `{ ... }` block to the top of the list.
 2. Set a unique `id`, for example `riyadh-data-center-2026`. Your share link is `story.html?id=riyadh-data-center-2026`.
 3. Fill in the title, customer, date (`YYYY-MM`), city, country, industry, application, summary, challenge, solution, metrics, results, products, and quote.
-4. Add photos to `images/` and set `"image": "images/your-photo.jpg"` (landscape, about 1600px wide, under 400 KB).
+4. Add photos to `images/` and set `"image": "images/your-photo.jpg"` (landscape, about 1600px wide, under 400 KB). Project-card photos load as they approach the viewport; the featured and story images load immediately.
 5. Set `featured: true` on the one story you want at the top of the home page.
 6. Set `published: true` **only after the customer has approved external publication** (written approval by email is enough). Drafts with `published: false` stay hidden.
 
